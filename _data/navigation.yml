@@ -1,7 +1,13 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Info"
+    url: /info/
+  - title: "Call-for-Papers"
+    url: https://cfp.hack.lu/
+  - title: "CTF"
+    url: /ctf/
+  - title: "hack.lu 2017"
+    url: https://2017.hack.lu/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
