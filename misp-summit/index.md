@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: MISP Summit #0x04 - Monday 15 October (from 14:00 to 18:00) at hack.lu 2018
-excerpt: "MISP Threat Intelligence Summit 0x04 at hack.lu 2018"
+excerpt: "MISP Threat Intelligence Summit 0x04 at hack.lu 2018. Practical threat intelligence and information sharing for everyone."
 modified: 2018-04-09T19:44:38.564948-04:00
 header:
   overlay_image: /images/misp-long.png
@@ -45,3 +45,10 @@ Who
 Everyone interested (developers, contributors, users and future users) in the MISP platform is welcome.
 
 The access to the MISP Summit is free. You just need to [register online](https://www.eventbrite.com/e/misp-threat-intelligence-summit-0x4-tickets-46481482365) (it's only the access to the MISP summit).
+
+Sponsors
+--------
+
+![](https://www.misp-project.org/assets/images/logo.png)
+![](https://www.misp-project.org/assets/images/en_cef.png)
+
