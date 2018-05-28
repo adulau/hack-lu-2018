@@ -2,12 +2,12 @@
 layout: splash
 title:  Info
 excerpt: "Practical information - Hack.lu 2018"
-modified: 2018-05-07T19:44:38.564948-04:00
+modified: 2018-05-25T19:44:38.564948-04:00
 ---
 
 # Registration
 
-- *Opening soon*
+{% include registration.html %}
 
 ## What's included?
 
