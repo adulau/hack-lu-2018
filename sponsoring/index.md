@@ -17,6 +17,19 @@ Rates
 - Silver Sponsor is 3000 Euro. medium logo on website. 1 free entrance.
 - Social event sponsoring in the evening of the first day. This sponsoring is 10000,- EUR.
 
+Diversity Sponsort
+------------------
+
+This year, there will be a blackhoodie workshop on monday before hack.lu, and we would like to allow the attendees of the workshop to also attend the main conference. As most of them don't get support from their organisation, they cannot afford taking the days off, covering the travel costs, the conference fees, and the hotel.
+Hack.lu offers tickets to the student price and would like to ask for some help in order to also cover the hotel costs. 
+The options below are just examples, please get in touch if you have other ideas.
+
+- 1000€: 1 normal ticket, 1 diversity ticket
+- 3000€: 4 normal tickets, 2 diversity ticket (earlybirds only)
+- 5000€: 3 diversity tickets, medium logo on website. 1 free entrance.
+- 10000€: 8 diversity tickets, medium logo on printed matters and website.  3 free entrances are included and small stand in the hallway.
+- 15000€: 8 diversity tickets, big logos on printed matters and website, 5 free entrances to the conference, stand in the hallway.
+
 Contact
 =======
 
