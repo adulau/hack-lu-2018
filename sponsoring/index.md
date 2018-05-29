@@ -24,11 +24,11 @@ This year, there will be a blackhoodie workshop on monday before hack.lu, and we
 Hack.lu offers tickets to the student price and would like to ask for some help in order to also cover the hotel costs. 
 The options below are just examples, please get in touch if you have other ideas.
 
-- 1000€: 1 normal ticket, 1 diversity ticket
-- 3000€: 4 normal tickets, 2 diversity ticket (earlybirds only)
-- 5000€: 3 diversity tickets, medium logo on website. 1 free entrance.
-- 10000€: 8 diversity tickets, medium logo on printed matters and website.  3 free entrances are included and small stand in the hallway.
-- 15000€: 8 diversity tickets, big logos on printed matters and website, 5 free entrances to the conference, stand in the hallway.
+- 1500€: 1 normal ticket, 1 diversity ticket (earlybirds only)
+- 4000€: 4 normal tickets, 2 diversity ticket (earlybirds only)
+- 6000€: 1 normal ticket, 3 diversity tickets, medium logo on website.
+- 10000€: 5 diversity tickets, medium logo on printed matters and website.  3 free entrances are included and small stand in the hallway.
+- 15000€: 5 diversity tickets, big logos on printed matters and website, 4 free entrances to the conference, stand in the hallway.
 
 Contact
 =======
