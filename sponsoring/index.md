@@ -28,7 +28,7 @@ All the prices are valid for invoices paid as long as the early bird tickets are
 
 - 1500€: 1 normal ticket, 1 diversity ticket
 - 4000€: 4 normal tickets, 2 diversity ticket
-- 6000€: 1 normal ticket, 3 diversity tickets, medium logo on website.
+- 6000€: 1 normal ticket, 2 diversity tickets, medium logo on website.
 - 10000€: 3 normal tickets, 5 diversity tickets, medium logo on printed matters and website, small stand in the hallway.
 - 15000€: 3 normal tickets, 5 diversity tickets, big logos on printed matters and website, stand in the hallway.
 
