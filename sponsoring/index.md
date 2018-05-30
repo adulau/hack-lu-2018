@@ -27,8 +27,8 @@ Hack.lu offers tickets to a reduced price and would like to ask for some help in
 The options below are just examples, please get in touch if you have other ideas.
 
 - 1500€: 1 normal ticket, 1 diversity ticket, small mention/logo in the diversity section on the website
-- 4000€: 4 normal tickets, 2 diversity ticket, logo in the diversity section on the website
-- 6000€: 1 normal ticket, 2 diversity tickets, logo in the diversity section on the website
+- 4000€: 5 normal tickets, 2 diversity ticket, logo in the diversity section on the website
+- 6000€: 2 normal ticket, 5 diversity tickets, large logo in the diversity section on the website
 - 10000€: 3 normal tickets, 5 diversity tickets, big logo on printed matters and website, small stand in the hallway.
 - 15000€: 3 normal tickets, 5 diversity tickets, big logo on printed matters and website, stand in the hallway.
 
