@@ -27,6 +27,7 @@ Hack.lu offers tickets to a reduced price and would like to ask for some help in
 The options below are just examples, please get in touch if you have other ideas.
 
 - 700€: 1 diversity scholarship ticket
+- 1000€: 1 diversity scholarship ticket, small mention/logo on the website
 - 4000€: 5 standart tickets, 2 diversity scholarship tickets, logo in the diversity section on the website
 - 6000€: 2 standart ticket, 5 diversity scholarship tickets, large logo in the diversity section on the website
 - 10000€: 3 standart tickets, 5 diversity scholarship tickets, big logo on printed matters and website, small stand in the hallway.
