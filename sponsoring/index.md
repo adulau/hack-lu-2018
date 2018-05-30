@@ -9,6 +9,8 @@ modified: 2018-05-09T19:44:38.564948-04:00
 Sponsoring hack.lu 2018
 -----------------------
 
+All the prices are valid for **invoices *paid*** as long as the early bird tickets are available.
+
 Rates
 =====
 
@@ -24,13 +26,11 @@ This year, there will be a blackhoodie workshop on monday before hack.lu, and we
 Hack.lu offers tickets to a reduced price and would like to ask for some help in order to also cover the hotel costs. 
 The options below are just examples, please get in touch if you have other ideas.
 
-All the prices are valid for invoices paid as long as the early bird tickets are available.
-
-- 1500€: 1 normal ticket, 1 diversity ticket
-- 4000€: 4 normal tickets, 2 diversity ticket
-- 6000€: 1 normal ticket, 2 diversity tickets, medium logo on website.
-- 10000€: 3 normal tickets, 5 diversity tickets, medium logo on printed matters and website, small stand in the hallway.
-- 15000€: 3 normal tickets, 5 diversity tickets, big logos on printed matters and website, stand in the hallway.
+- 1500€: 1 normal ticket, 1 diversity ticket, small mention/logo in the diversity section on the website
+- 4000€: 4 normal tickets, 2 diversity ticket, logo in the diversity section on the website
+- 6000€: 1 normal ticket, 2 diversity tickets, logo in the diversity section on the website
+- 10000€: 3 normal tickets, 5 diversity tickets, big logo on printed matters and website, small stand in the hallway.
+- 15000€: 3 normal tickets, 5 diversity tickets, big logo on printed matters and website, stand in the hallway.
 
 Contact
 =======
