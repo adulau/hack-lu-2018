@@ -19,19 +19,19 @@ Rates
 - Silver Sponsor is 3000 Euro. medium logo on website. 1 free entrance.
 - Social event sponsoring in the evening of the first day. This sponsoring is 10000,- EUR.
 
-Diversity Scholarship Sponsort
-------------------------------
+Diversity Scholarship Sponsor
+-----------------------------
 
-This year, there will be a blackhoodie workshop on monday before hack.lu, and we would like to allow the attendees of the workshop to also attend the main conference. As most of them don't get support from their organisation, they cannot afford taking the days off, covering the travel costs, the conference fees, and the hotel.
+This year, there will be a blackhoodie workshop on Monday before hack.lu, and we would like to allow the attendees of the workshop to also attend the main conference. As most of them don't get support from their organisation, they cannot afford taking the days off, covering the travel costs, the conference fees, and the hotel.
 Hack.lu offers tickets to a reduced price and would like to ask for some help in order to also cover the hotel costs. 
 The options below are just examples, please get in touch if you have other ideas.
 
 - 700€: 1 diversity scholarship ticket
 - 1000€: 1 diversity scholarship ticket, small mention/logo on the website
-- 4000€: 5 standart tickets, 2 diversity scholarship tickets, logo in the diversity section on the website
-- 6000€: 2 standart ticket, 5 diversity scholarship tickets, large logo in the diversity section on the website
-- 10000€: 3 standart tickets, 5 diversity scholarship tickets, big logo on printed matters and website, small stand in the hallway.
-- 15000€: 3 standart tickets, 5 diversity scholarship tickets, big logo on printed matters and website, stand in the hallway.
+- 4000€: 5 standard tickets, 2 diversity scholarship tickets, logo in the diversity section on the website
+- 6000€: 2 standard ticket, 5 diversity scholarship tickets, large logo in the diversity section on the website
+- 10000€: 3 standard tickets, 5 diversity scholarship tickets, big logo on printed matters and website, small stand in the hallway.
+- 15000€: 3 standard tickets, 5 diversity scholarship tickets, big logo on printed matters and website, stand in the hallway.
 
 Contact
 =======
