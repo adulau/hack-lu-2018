@@ -9,7 +9,7 @@ modified: 2018-05-09T19:44:38.564948-04:00
 Sponsoring hack.lu 2018
 -----------------------
 
-All the prices are valid for **invoices *paid*** as long as the early bird tickets are available.
+All the prices are valid for invoices ***paid* before the 1st of July**. If it is a problem, let us know.
 
 Rates
 =====
