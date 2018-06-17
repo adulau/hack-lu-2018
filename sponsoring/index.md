@@ -22,7 +22,7 @@ Packages
 Diversity Scholarship Sponsor
 -----------------------------
 
-This year, there will be a [blackhoodie](https://www.blackhoodie.re/) workshop on Monday before hack.lu, and we would like to allow the attendees of the workshop to also attend the main conference. As most of them don't get support from their organisation, they cannot afford taking the days off, covering the travel costs, the conference fees, and the hotel.
+This year, there will be a [blackhoodie](https://www.blackhoodie.re/) workshop on Monday before hack.lu, and we would like to allow the attendees of the workshop to also attend the main conference. As most of them don't get support from their organisation to cover the conference fees, and the hotel cost.
 Hack.lu offers tickets at a reduced price and would like to ask for some help in order to also cover the hotel costs. 
 The options below are just examples, please get in touch if you have other ideas.
 
