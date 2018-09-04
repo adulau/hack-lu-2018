@@ -68,10 +68,10 @@ excerpt: "Agenda - Hack.lu 2018"
 
 {: class="table table-striped"}
 
-| Time | Hollenfels | Echternach - Diekirch | Assembourg |
-|:----:|:----------:|:---------------------:|:----------:|
-| 09:30 |[ARM IoT Firmware Emulation](http://2017.hack.lu/talks/#ARM+IoT+Firmware+Emulation) ([Saumil Udayan Shah](http://2017.hack.lu/talks/#Saumil+Udayan+Shah)) |[Android RE workshop](http://2017.hack.lu/talks/#Android+RE+workshop) ([Axelle Apvrille](http://2017.hack.lu/talks/#Axelle+Apvrille)) |[Introduction to Bro Network Security Monitor](http://2017.hack.lu/talks/#Introduction+to+Bro+Network+Security+Monitor) ([Eva Szilagyi](http://2017.hack.lu/talks/#Eva+Szilagyi), [David Szili](http://2017.hack.lu/talks/#David+Szili)) |
-| 13:30 ||||
+| Time | Hollenfels | Echternach - Diekirch | Assembourg | Schengen |
+|:----:|:----------:|:---------------------:|:----------:|:--------:|
+| 09:30 |[ARM IoT Firmware Emulation](http://2017.hack.lu/talks/#ARM+IoT+Firmware+Emulation) ([Saumil Udayan Shah](http://2017.hack.lu/talks/#Saumil+Udayan+Shah)) |[Android RE workshop](http://2017.hack.lu/talks/#Android+RE+workshop) ([Axelle Apvrille](http://2017.hack.lu/talks/#Axelle+Apvrille)) |[Introduction to Bro Network Security Monitor](http://2017.hack.lu/talks/#Introduction+to+Bro+Network+Security+Monitor) ([Eva Szilagyi](http://2017.hack.lu/talks/#Eva+Szilagyi), [David Szili](http://2017.hack.lu/talks/#David+Szili)) ||
+| 13:30 |||||
 {: class="table"}
 
 
@@ -79,10 +79,10 @@ excerpt: "Agenda - Hack.lu 2018"
 
 {: class="table table-striped"}
 
-| Time | Hollenfels | Echternach - Diekirch | Assembourg |
-|:----:|:----------:|:---------------------:|:----------:|
-| 09:30 |[Teenage Mutant Binja Turtles](http://2017.hack.lu/talks/#Teenage+Mutant+Binja+Turtles) ([Benedikt Schmotzle (byte_swap)](http://2017.hack.lu/talks/#Benedikt+Schmotzle+%28byte_swap%29)) |[Log Hunting with Sigma](http://2017.hack.lu/talks/#Log+Hunting+with+Sigma) ([Thomas Patzke](http://2017.hack.lu/talks/#Thomas+Patzke)) |[MONARC hands-on with a case study](http://2017.hack.lu/talks/#MONARC+hands-on+with+a+case+study) ([Fabien Mathey](http://2017.hack.lu/talks/#Fabien+Mathey)) |
-| 13:30 ||||
+| Time | Hollenfels | Echternach - Diekirch | Assembourg | Schengen |
+|:----:|:----------:|:---------------------:|:----------:|:--------:|
+| 09:30 |[Teenage Mutant Binja Turtles](http://2017.hack.lu/talks/#Teenage+Mutant+Binja+Turtles) ([Benedikt Schmotzle (byte_swap)](http://2017.hack.lu/talks/#Benedikt+Schmotzle+%28byte_swap%29)) |[Log Hunting with Sigma](http://2017.hack.lu/talks/#Log+Hunting+with+Sigma) ([Thomas Patzke](http://2017.hack.lu/talks/#Thomas+Patzke)) |[MONARC hands-on with a case study](http://2017.hack.lu/talks/#MONARC+hands-on+with+a+case+study) ([Fabien Mathey](http://2017.hack.lu/talks/#Fabien+Mathey)) ||
+| 13:30 ||||[Unpacking for Dummies](http://2017.hack.lu/talks/#Unpacking+for+Dummies) ([Paul Jung & Remi Chipaux](http://2017.hack.lu/talks/#Paul+Jung+%26+Remi+Chipaux)) |
 {: class="table"}
 
 
@@ -90,8 +90,8 @@ excerpt: "Agenda - Hack.lu 2018"
 
 {: class="table table-striped"}
 
-| Time | Hollenfels | Echternach - Diekirch | Assembourg |
-|:----:|:----------:|:---------------------:|:----------:|
-| 09:30 |[Reversing and Vulnerability research of Ethereum Smart Contracts](http://2017.hack.lu/talks/#Reversing+and+Vulnerability+research+of+Ethereum+Smart+Contracts) ([Patrick Ventuzelo](http://2017.hack.lu/talks/#Patrick+Ventuzelo)) |||
-| 13:30 ||[Hands-On Introduction to Exploit Development](http://2017.hack.lu/talks/#Hands-On+Introduction+to+Exploit+Development) ([Georgia Weidman](http://2017.hack.lu/talks/#Georgia+Weidman)) |[Malware Triage: Analyzing Malscripts - Return of The Exploits!](http://2017.hack.lu/talks/#Malware+Triage%3A+Analyzing+Malscripts+-+Return+of+The+Exploits%21) ([Sergei Frankoff](http://2017.hack.lu/talks/#Sergei+Frankoff), [Sean Wilson](http://2017.hack.lu/talks/#Sean+Wilson)) |
+| Time | Hollenfels | Echternach - Diekirch | Assembourg | Schengen |
+|:----:|:----------:|:---------------------:|:----------:|:--------:|
+| 09:30 |[Reversing and Vulnerability research of Ethereum Smart Contracts](http://2017.hack.lu/talks/#Reversing+and+Vulnerability+research+of+Ethereum+Smart+Contracts) ([Patrick Ventuzelo](http://2017.hack.lu/talks/#Patrick+Ventuzelo)) ||||
+| 13:30 ||[Hands-On Introduction to Exploit Development](http://2017.hack.lu/talks/#Hands-On+Introduction+to+Exploit+Development) ([Georgia Weidman](http://2017.hack.lu/talks/#Georgia+Weidman)) |[Malware Triage: Analyzing Malscripts - Return of The Exploits!](http://2017.hack.lu/talks/#Malware+Triage%3A+Analyzing+Malscripts+-+Return+of+The+Exploits%21) ([Sergei Frankoff](http://2017.hack.lu/talks/#Sergei+Frankoff), [Sean Wilson](http://2017.hack.lu/talks/#Sean+Wilson)) |[Ask Me Anything - MISP](http://2017.hack.lu/talks/#Ask+Me+Anything+-+MISP) ([iglocska](http://2017.hack.lu/talks/#iglocska)) |
 {: class="table"}

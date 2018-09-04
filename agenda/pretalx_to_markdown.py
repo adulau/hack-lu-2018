@@ -48,8 +48,8 @@ day_header_workshops = '''
 
 {{: class="table table-striped"}}
 
-| Time | Hollenfels | Echternach - Diekirch | Assembourg |
-|:----:|:----------:|:---------------------:|:----------:|
+| Time | Hollenfels | Echternach - Diekirch | Assembourg | Schengen |
+|:----:|:----------:|:---------------------:|:----------:|:--------:|
 '''
 
 workshop_days = []
@@ -59,8 +59,8 @@ for day in export['schedule']['conference']['days']:
     md_day = day_header_workshops.format(date=d.strftime('%A %d %B %Y'))
     # We have only two workshops/room/day so let's make it quick and dirty.
     md_day += '| 09:30 |'
-    for room in ["Hollenfels", "Echternach - Diekirch - Fischbach", "Assembourg"]:
-        if day['rooms'][room][0]['start'] == '09:30':
+    for room in ["Hollenfels", "Echternach - Diekirch - Fischbach", "Assembourg", "Schengen"]:
+        if day['rooms'][room] and day['rooms'][room][0]['start'] == '09:30':
             talk = day['rooms'][room][0]
             md_day += '[{title}](http://2017.hack.lu/talks/#{link}) '.format(time=talk['start'], title=talk['title'], link=quote_plus(talk['title']))
             md_day += '('
@@ -70,8 +70,8 @@ for day in export['schedule']['conference']['days']:
             md_day += '|'
 
     md_day += '\n| 13:30 |'
-    for room in ["Hollenfels", "Echternach - Diekirch - Fischbach", "Assembourg"]:
-        if day['rooms'][room][0]['start'] == '13:30':
+    for room in ["Hollenfels", "Echternach - Diekirch - Fischbach", "Assembourg", "Schengen"]:
+        if day['rooms'][room] and day['rooms'][room][0]['start'] == '13:30':
             talk = day['rooms'][room][0]
             md_day += '[{title}](http://2017.hack.lu/talks/#{link}) '.format(time=talk['start'], title=talk['title'], link=quote_plus(talk['title']))
             md_day += '('
