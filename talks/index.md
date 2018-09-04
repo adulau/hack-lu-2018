@@ -51,6 +51,17 @@ Reverse engineer, author of Corkami
 
 # Talks
 
+## <a name="Operating+large-scale+honeypot+sensor+networks"></a>Operating large-scale honeypot sensor networks
+by Piotr Kijewski
+
+The talk will cover practical experiences in operating large scale honeypot sensor networks especially in the context of the SISSDEN project and provide a status update of the sensor network as maintained by the project: https://sissden.eu
+
+
+### Bio: <a name="Piotr+Kijewski"></a>Piotr Kijewski
+
+Piotr is a member of The Shadowserver Foundation, a non-profit with a mission of making the Internet a more secure environment. He has a strong CSIRT background, previously working in incident response at a national level for 14 years in the CERT Polska (CERT.PL) team. He managed the team for nearly 7 years up till 2016, building up its various security data gathering and analysis projects as well as managing its anti-malware operations, including numerous botnet disruptions. Piotr currently also serves on the Board of Directors of the Honeynet Project, a well-known and respected non-profit that is committed to the development of honeypot technologies and threat analysis
+
+
 ## <a name="IPC+-+the+broken+dream+of+inherent+security"></a>IPC - the broken dream of inherent security
 by Thanh Bui
 

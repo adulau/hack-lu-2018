@@ -60,6 +60,7 @@ excerpt: "Agenda - Hack.lu 2018"
 | 13:00 | [Building with Privacy by Design](http://2018.hack.lu/talks/#Building+with+Privacy+by+Design) ([Naomi Freeman](http://2018.hack.lu/talks/#Naomi+Freeman)) |
 | 13:30 | [Only an Electron Away from Code Execution](http://2018.hack.lu/talks/#Only+an+Electron+Away+from+Code+Execution) ([Silvia Väli](http://2018.hack.lu/talks/#Silvia+V%C3%A4li)) |
 | 14:15 | [Breaking Parser Logic: Take Your Path Normalization off and Pop 0days Out!](http://2018.hack.lu/talks/#Breaking+Parser+Logic%3A+Take+Your+Path+Normalization+off+and+Pop+0days+Out%21) ([Orange Tsai](http://2018.hack.lu/talks/#Orange+Tsai)) |
+| 15:15 | [Operating large-scale honeypot sensor networks](http://2018.hack.lu/talks/#Operating+large-scale+honeypot+sensor+networks) ([Piotr Kijewski](http://2018.hack.lu/talks/#Piotr+Kijewski)) |
 | 16:00 | [Serial-Killer: Security Analysis of Industrial Serial Device Servers](http://2018.hack.lu/talks/#Serial-Killer%3A+Security+Analysis+of+Industrial+Serial+Device+Servers) ([Florian Adamsky](http://2018.hack.lu/talks/#Florian+Adamsky)) |
 | 17:00 | [Attacks on critical infrastructure and machinery](http://2018.hack.lu/talks/#Attacks+on+critical+infrastructure+and+machinery) ([voffchik](http://2018.hack.lu/talks/#voffchik)) |
 {: class="table"}
