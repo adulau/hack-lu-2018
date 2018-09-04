@@ -48,8 +48,8 @@ day_header_workshops = '''
 
 {{: class="table table-striped"}}
 
-| Time | Hollenfels | Echternach - Diekirch | Assembourg | Schengen |
-|:----:|:----------:|:---------------------:|:----------:|:--------:|
+| Time | Hollenfels | Echternach - Diekirch - Fischbach | Assembourg | Schengen |
+|:----:|:----------:|:---------------------------------:|:----------:|:--------:|
 '''
 
 workshop_days = []
@@ -67,17 +67,28 @@ for day in export['schedule']['conference']['days']:
             md_day += ', '.join(['[{speaker}](http://2017.hack.lu/talks/#{link})'.format(speaker=speaker['name'], link=quote_plus(speaker['name'])) for speaker in talk['persons']])
             md_day += ') |'
         else:
+            if day['rooms'][room] and day['rooms'][room][0]['start'] != '13:30':
+                print(day['rooms'][room])
             md_day += '|'
 
     md_day += '\n| 13:30 |'
     for room in ["Hollenfels", "Echternach - Diekirch - Fischbach", "Assembourg", "Schengen"]:
-        if day['rooms'][room] and day['rooms'][room][0]['start'] == '13:30':
-            talk = day['rooms'][room][0]
-            md_day += '[{title}](http://2017.hack.lu/talks/#{link}) '.format(time=talk['start'], title=talk['title'], link=quote_plus(talk['title']))
-            md_day += '('
-            md_day += ', '.join(['[{speaker}](http://2017.hack.lu/talks/#{link})'.format(speaker=speaker['name'], link=quote_plus(speaker['name'])) for speaker in talk['persons']])
-            md_day += ') |'
+        if day['rooms'][room]:
+            if day['rooms'][room][0]['start'] == '13:30':
+                talk = day['rooms'][room][0]
+                md_day += '[{title}](http://2017.hack.lu/talks/#{link}) '.format(time=talk['start'], title=talk['title'], link=quote_plus(talk['title']))
+                md_day += '('
+                md_day += ', '.join(['[{speaker}](http://2017.hack.lu/talks/#{link})'.format(speaker=speaker['name'], link=quote_plus(speaker['name'])) for speaker in talk['persons']])
+                md_day += ') |'
+            elif day['rooms'][room][1]['start'] == '13:30':
+                talk = day['rooms'][room][1]
+                md_day += '[{title}](http://2017.hack.lu/talks/#{link}) '.format(time=talk['start'], title=talk['title'], link=quote_plus(talk['title']))
+                md_day += '('
+                md_day += ', '.join(['[{speaker}](http://2017.hack.lu/talks/#{link})'.format(speaker=speaker['name'], link=quote_plus(speaker['name'])) for speaker in talk['persons']])
+                md_day += ') |'
         else:
+            if day['rooms'][room] and day['rooms'][room][0]['start'] != '09:30':
+                print(day['rooms'][room])
             md_day += '|'
 
     md_day += '\n'
