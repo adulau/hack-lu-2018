@@ -42,6 +42,7 @@ excerpt: "Agenda - Hack.lu 2018"
 | 16:00 | [pEp - pretty Easy privacy for everyone!](http://2018.hack.lu/talks/#pEp+-+pretty+Easy+privacy+for+everyone%21) ([sva](http://2018.hack.lu/talks/#sva)) |
 | 17:00 | [how to hack a Yacht - swimming IoT](http://2018.hack.lu/talks/#how+to+hack+a+Yacht+-+swimming+IoT) ([Stephan Gerling](http://2018.hack.lu/talks/#Stephan+Gerling)) |
 | 17:45 | [APIs are critical to security people - what I learned trying to discover useful APIs](http://2018.hack.lu/talks/#APIs+are+critical+to+security+people+-+what+I+learned+trying+to+discover+useful+APIs) ([Alexander Jaeger](http://2018.hack.lu/talks/#Alexander+Jaeger)) |
+| 18:10 | [Detecting phishing from pDNS](http://2018.hack.lu/talks/#Detecting+phishing+from+pDNS) ([Irena Damsky](http://2018.hack.lu/talks/#Irena+Damsky)) |
 | 19:00 | [Social event](http://2018.hack.lu/talks/#Social+event) ([info](http://2018.hack.lu/talks/#info)) |
 {: class="table"}
 
@@ -63,6 +64,7 @@ excerpt: "Agenda - Hack.lu 2018"
 | 15:15 | [Operating large-scale honeypot sensor networks](http://2018.hack.lu/talks/#Operating+large-scale+honeypot+sensor+networks) ([Piotr Kijewski](http://2018.hack.lu/talks/#Piotr+Kijewski)) |
 | 16:00 | [Serial-Killer: Security Analysis of Industrial Serial Device Servers](http://2018.hack.lu/talks/#Serial-Killer%3A+Security+Analysis+of+Industrial+Serial+Device+Servers) ([Florian Adamsky](http://2018.hack.lu/talks/#Florian+Adamsky)) |
 | 17:00 | [Attacks on critical infrastructure and machinery](http://2018.hack.lu/talks/#Attacks+on+critical+infrastructure+and+machinery) ([voffchik](http://2018.hack.lu/talks/#voffchik)) |
+| 17:45 | [Practical and Affordable Side-Channel Attacks](http://2018.hack.lu/talks/#Practical+and+Affordable+Side-Channel+Attacks) ([Francois Durvaux](http://2018.hack.lu/talks/#Francois+Durvaux)) |
 {: class="table"}
 
 ## Tuesday 16 October 2018 (Workshops)
