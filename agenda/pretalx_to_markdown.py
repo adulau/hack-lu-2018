@@ -35,7 +35,7 @@ for day in export['schedule']['conference']['days']:
     d = datetime.strptime(day['date'], '%Y-%m-%d')
     md_day = day_header_talks.format(date=d.strftime('%A %d %B %Y'))
     for talk in day['rooms']['Europe']:
-        md_day += '| {time} | [{title}](http://2017.hack.lu/talks/#{link})\n'.format(time=talk['start'], title=talk['title'], link=quote_plus(talk['title']))
+        md_day += '| {time} | [{title}](http://2017.hack.lu/talks/#{link}) '.format(time=talk['start'], title=talk['title'], link=quote_plus(talk['title']))
         for speaker in talk['persons']:
             md_day += '([{speaker}](http://2017.hack.lu/talks/#{link}) '.format(speaker=speaker['name'], link=quote_plus(speaker['name']))
         md_day += ') |\n'
@@ -62,7 +62,7 @@ for day in export['schedule']['conference']['days']:
     for room in ["Hollenfels", "Echternach - Diekirch - Fischbach", "Assembourg"]:
         if day['rooms'][room][0]['start'] == '09:30':
             talk = day['rooms'][room][0]
-            md_day += '[{title}](http://2017.hack.lu/talks/#{link})\n'.format(time=talk['start'], title=talk['title'], link=quote_plus(talk['title']))
+            md_day += '[{title}](http://2017.hack.lu/talks/#{link}) '.format(time=talk['start'], title=talk['title'], link=quote_plus(talk['title']))
             for speaker in talk['persons']:
                 md_day += '([{speaker}](http://2017.hack.lu/talks/#{link}) '.format(speaker=speaker['name'], link=quote_plus(speaker['name']))
             md_day += ') |'
@@ -73,7 +73,7 @@ for day in export['schedule']['conference']['days']:
     for room in ["Hollenfels", "Echternach - Diekirch - Fischbach", "Assembourg"]:
         if day['rooms'][room][0]['start'] == '13:30':
             talk = day['rooms'][room][0]
-            md_day += '[{title}](http://2017.hack.lu/talks/#{link})\n'.format(time=talk['start'], title=talk['title'], link=quote_plus(talk['title']))
+            md_day += '[{title}](http://2017.hack.lu/talks/#{link}) '.format(time=talk['start'], title=talk['title'], link=quote_plus(talk['title']))
             for speaker in talk['persons']:
                 md_day += '([{speaker}](http://2017.hack.lu/talks/#{link}) '.format(speaker=speaker['name'], link=quote_plus(speaker['name']))
             md_day += ') |'
