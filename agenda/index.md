@@ -32,17 +32,17 @@ excerpt: "Agenda - Hack.lu 2018"
 | Time | Talks and Speakers |
 |:----:|:------------------:|
 | 08:45 | [IPC - the broken dream of inherent security](http://2018.hack.lu/talks/#IPC+-+the+broken+dream+of+inherent+security) ([Thanh Bui](http://2018.hack.lu/talks/#Thanh+Bui)) |
-| 09:30 | [Modern pentest tricks for faster, wider, greater engagements](http://2018.hack.lu/talks/#Modern+pentest+tricks+for+faster%2C+wider%2C+greater+engagements) ([Thomas Debize](http://2018.hack.lu/talks/#Thomas+Debize)) |
+| 09:30 | [Operating large-scale honeypot sensor networks](http://2018.hack.lu/talks/#Operating+large-scale+honeypot+sensor+networks) ([Piotr Kijewski](http://2018.hack.lu/talks/#Piotr+Kijewski)) |
 | 10:30 | [Abusing Bash for Windows](http://2018.hack.lu/talks/#Abusing+Bash+for+Windows) ([Antoine Cervoise](http://2018.hack.lu/talks/#Antoine+Cervoise)) |
 | 10:50 | [Cl4ndestina: privacy by default with a feminist perspective from the Global South](http://2018.hack.lu/talks/#Cl4ndestina%3A+privacy+by+default+with+a+feminist+perspective+from+the+Global+South) ([Steffania Paola and Narrira Lemos (Cl4ndestina)](http://2018.hack.lu/talks/#Steffania+Paola+and+Narrira+Lemos+%28Cl4ndestina%29)) |
 | 13:00 | [14 Easy Lessons for Thinking About Complex Adversarial Systems](http://2018.hack.lu/talks/#14+Easy+Lessons+for+Thinking+About+Complex+Adversarial+Systems) ([Eleanor Saitta](http://2018.hack.lu/talks/#Eleanor+Saitta)) |
 | 13:30 | [Education & communication](http://2018.hack.lu/talks/#Education+%26+communication) ([Ange Albertini](http://2018.hack.lu/talks/#Ange+Albertini)) |
 | 14:15 | [Make ARM Shellcode Great Again](http://2018.hack.lu/talks/#Make+ARM+Shellcode+Great+Again) ([Saumil Udayan Shah](http://2018.hack.lu/talks/#Saumil+Udayan+Shah)) |
-| 15:15 | [Finding the best threat intelligence provider for a specific purpose: trials and tribulations](http://2018.hack.lu/talks/#Finding+the+best+threat+intelligence+provider+for+a+specific+purpose%3A+trials+and+tribulations) ([Alicia, Dror](http://2018.hack.lu/talks/#Alicia%2C+Dror), [alicia.hickey](http://2018.hack.lu/talks/#alicia.hickey), [dror-john.roecher](http://2018.hack.lu/talks/#dror-john.roecher)) |
+| 15:15 | [Finding the best threat intelligence provider for a specific purpose: trials and tribulations](http://2018.hack.lu/talks/#Finding+the+best+threat+intelligence+provider+for+a+specific+purpose%3A+trials+and+tribulations) ([Alicia Hickey](http://2018.hack.lu/talks/#Alicia+Hickey), [Dror-John Roecher](http://2018.hack.lu/talks/#Dror-John+Roecher)) |
 | 16:00 | [pEp - pretty Easy privacy for everyone!](http://2018.hack.lu/talks/#pEp+-+pretty+Easy+privacy+for+everyone%21) ([sva](http://2018.hack.lu/talks/#sva)) |
 | 17:00 | [how to hack a Yacht - swimming IoT](http://2018.hack.lu/talks/#how+to+hack+a+Yacht+-+swimming+IoT) ([Stephan Gerling](http://2018.hack.lu/talks/#Stephan+Gerling)) |
 | 17:45 | [APIs are critical to security people - what I learned trying to discover useful APIs](http://2018.hack.lu/talks/#APIs+are+critical+to+security+people+-+what+I+learned+trying+to+discover+useful+APIs) ([Alexander Jaeger](http://2018.hack.lu/talks/#Alexander+Jaeger)) |
-| 18:10 | [Detecting phishing from pDNS](http://2018.hack.lu/talks/#Detecting+phishing+from+pDNS) ([Irena Damsky](http://2018.hack.lu/talks/#Irena+Damsky)) |
+| 18:10 | [Simple analysis using pDNS](http://2018.hack.lu/talks/#Simple+analysis+using+pDNS) ([Irena Damsky](http://2018.hack.lu/talks/#Irena+Damsky)) |
 | 19:00 | [Social event](http://2018.hack.lu/talks/#Social+event) ([info](http://2018.hack.lu/talks/#info)) |
 {: class="table"}
 
@@ -61,7 +61,7 @@ excerpt: "Agenda - Hack.lu 2018"
 | 13:00 | [Building with Privacy by Design](http://2018.hack.lu/talks/#Building+with+Privacy+by+Design) ([Naomi Freeman](http://2018.hack.lu/talks/#Naomi+Freeman)) |
 | 13:30 | [Only an Electron Away from Code Execution](http://2018.hack.lu/talks/#Only+an+Electron+Away+from+Code+Execution) ([Silvia Väli](http://2018.hack.lu/talks/#Silvia+V%C3%A4li)) |
 | 14:15 | [Breaking Parser Logic: Take Your Path Normalization off and Pop 0days Out!](http://2018.hack.lu/talks/#Breaking+Parser+Logic%3A+Take+Your+Path+Normalization+off+and+Pop+0days+Out%21) ([Orange Tsai](http://2018.hack.lu/talks/#Orange+Tsai)) |
-| 15:15 | [Operating large-scale honeypot sensor networks](http://2018.hack.lu/talks/#Operating+large-scale+honeypot+sensor+networks) ([Piotr Kijewski](http://2018.hack.lu/talks/#Piotr+Kijewski)) |
+| 15:00 | [Modern pentest tricks for faster, wider, greater engagements](http://2018.hack.lu/talks/#Modern+pentest+tricks+for+faster%2C+wider%2C+greater+engagements) ([Thomas Debize](http://2018.hack.lu/talks/#Thomas+Debize)) |
 | 16:00 | [Serial-Killer: Security Analysis of Industrial Serial Device Servers](http://2018.hack.lu/talks/#Serial-Killer%3A+Security+Analysis+of+Industrial+Serial+Device+Servers) ([Florian Adamsky](http://2018.hack.lu/talks/#Florian+Adamsky)) |
 | 17:00 | [Attacks on critical infrastructure and machinery](http://2018.hack.lu/talks/#Attacks+on+critical+infrastructure+and+machinery) ([voffchik](http://2018.hack.lu/talks/#voffchik)) |
 | 17:45 | [Practical and Affordable Side-Channel Attacks](http://2018.hack.lu/talks/#Practical+and+Affordable+Side-Channel+Attacks) ([Francois Durvaux](http://2018.hack.lu/talks/#Francois+Durvaux)) |
