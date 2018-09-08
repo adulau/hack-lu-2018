@@ -59,7 +59,7 @@ The following behaviours are considered unacceptable at Hack.lu:
 * Physically or logically attacking any part of Hack.lu’s infrastructure;
 * Physically or logically attacking any devices or tools, belonging to other Hack.lu participants;
 * Physically or logically attacking third party software, services or infrastructure upon which Hack.lu relies (including property of the venue/hotel);
-* Breaking the rules set forth during the CFT competition. For instance, not respecting the time limits imposed for some CTF challenges, and not complying immediately when asked by organizers to stop trying to solve the challenge.
+* Breaking the rules set forth during the CTF competition. For instance, not respecting the time limits imposed for some CTF challenges, and not complying immediately when asked by organizers to stop trying to solve the challenge.
 * Publishing sensitive, personal and/or private information regarding any participant without that participant’s explicit consent;
 * Publishing intimidating, harassing, abusive, discriminatory, derogatory, or demeaning materials about any participant;
 * Intimidating, harassing, abusive, discriminatory, derogatory or demeaning conduct toward any other participant;
