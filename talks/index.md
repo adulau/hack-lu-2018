@@ -87,7 +87,7 @@ Francois did his PhD in the Crypto Group at UCL in Belgium. His research topic w
 
 
 ## <a name="IPC+-+the+broken+dream+of+inherent+security"></a>IPC - the broken dream of inherent security
-by Thanh Bui
+by Thanh Bui, Siddharth (Sid) Rao
 
 This talk presents vulnerabilities related to inter-process communication (IPC) inside the computer. These vulnerabilities allow a non-privileged process to impersonate the IPC communication endpoints and steal sensitive data of other users on the same computer, including passwords and authentication factors.
 
@@ -95,6 +95,11 @@ This talk presents vulnerabilities related to inter-process communication (IPC) 
 ### Bio: <a name="Thanh+Bui"></a>Thanh Bui
 
 Thanh Bui is a doctoral candidate in the “Secure systems” group of Aalto University, Finland. His research focuses on analyzing and designing secure network protocols and distributed systems. He is a past Erasmus Mundus fellow and holds double master's degrees from Aalto University, Finland and KTH Royal Institute of Technology, Sweden.
+
+
+### Bio: <a name="Siddharth+%28Sid%29+Rao"></a>Siddharth (Sid) Rao
+
+Siddharth (Sid) Rao is a doctoral candidate in the"Secure systems" group of Aalto University, Finland. He specializes in the security analysis of communication protocols, and his current interest lies in pedagogical study of the 'lack of authentication' in different systems. He is a past Erasmus Mundus fellow and holds double master's degrees from Aalto University, Finland and University of Tartu, Estonia. He has been Ford-Mozilla Open Web Fellow at European Digital Rights (EDRi), where helped to define policies related to data protection, surveillance, copyright, and network neutrality. He has previous spoken at security conferences such as DEF CON, Blackhat and Troopers.
 
 
 ## <a name="14+Easy+Lessons+for+Thinking+About+Complex+Adversarial+Systems"></a>14 Easy Lessons for Thinking About Complex Adversarial Systems
@@ -636,7 +641,19 @@ Patrick has been speaker/trainer multiple time at various international securit
 ## <a name="Introduction+to+Bro+Network+Security+Monitor"></a>Introduction to Bro Network Security Monitor
 by Eva Szilagyi, David Szili
 
-This two-hour workshop is about Bro's capabilities and cover topics such as Bro's architecture, Bro events, Bro logs, Bro signatures, Bro scripting, Bro + ELK.
+TL;DR: This two-hour workshop is about Bro's capabilities and cover topics such as Bro's architecture, Bro events, Bro logs, Bro signatures, Bro scripting, Bro + ELK.
+
+Bro is an open-source Network Security Monitor (NSM) and analytics platform. Even though it has been around since the mid 90's, its main user base was primarily universities, research labs and supercomputing centers. In the past few years, however, more and more security professionals in the industry turned their attention to this powerful tool, as it runs on commodity hardware, thus providing a low-cost alternative to commercial solutions.
+
+At its core, Bro inspects traffic and creates an extensive set of well-structured, tab-separated log files that record a network’s activity. Nonetheless, Bro is a lot more than just a traditional signature-based IDS. While it supports such standard functionality as well, Bro’s scripting language allows security analysts to perform arbitrary analysis tasks such as extracting files from sessions, detecting malware by interfacing with an external source, detecting brute-forcing, etc. It comes with a large set of pre-built standard libraries, just like Python.
+
+During this two-hour workshop, we will learn about Bro's capabilities and cover the following topics:
+- Introduction to Bro
+- Bro architecture
+- Bro events and logs
+- Bro signatures
+- Bro scripting
+- Bro and Elastic Stack
 
 
 ### Bio: <a name="Eva+Szilagyi"></a>Eva Szilagyi
@@ -739,6 +756,25 @@ How to create Sigma rules and use them to hunt evil in logs.
 Thomas Patzke has more than 10 years of experience in the area of information security and currently works at thyssenkrupp CERT. His main job is the discovery of vulnerabilities in applications and products, but he also enjoys working on defensive topics, especially in the area of threat hunting. Thomas likes to create and contribute to open source security tools like Sigma, EQUEL, an ELK configuration for Linux systems, a POODLE exploit and various plugins for the Burp Suite (github.com/thomaspatzke).
 
 He does not have a single certification and is quite proud of it.
+
+
+## <a name="Python+Toolsmithing+101"></a>Python Toolsmithing 101
+by Didier Stevens
+
+In this 2 hour workshop, the attendees will learn how to create (security) tools in Python. With more
+than 30 years experience in the development of tools, 12 years of publication, more than 100 tools and
+at least a couple of tools widely used by the security community, Didier Stevens will share his knowledge
+in this workshop and teach attendees how to develop their own tools in Python.
+
+
+### Bio: <a name="Didier+Stevens"></a>Didier Stevens
+
+Didier Stevens (Microsoft MVP Consumer Security, SANS ISC Senior Handler, GREM - GIAC Reverse Engineering Malware, GCIH, CISSP, GSSP-C, MCSD .NET, MCSE/Security, MCITP Windows Server 2008, RHCT, CCNP Security, OSWP, WCNA) is a Senior Analyst working at NVISO (https://www.nviso.be)
+
+Didier is a pioneer in malicious PDF document research and malicious MS Office documents analysis, and has developed several tools to help with the analysis of malicious documents like PDF and MS Office files.
+
+You can find his open source security tools on his IT security related blog
+https://blog.didierStevens.com
 
 
 ## <a name="Hands-On+Introduction+to+Exploit+Development"></a>Hands-On Introduction to Exploit Development

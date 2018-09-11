@@ -12,6 +12,8 @@ main:
     url: https://cfp.hack.lu/
   - title: "CTF"
     url: /ctf/
+  - title: "Code of conduct"
+     url: /CoD/
   - title: "hack.lu 2017"
     url: https://2017.hack.lu/
   # - title: "About"

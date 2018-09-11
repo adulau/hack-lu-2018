@@ -31,7 +31,7 @@ excerpt: "Agenda - Hack.lu 2018"
 
 | Time | Talks and Speakers |
 |:----:|:------------------:|
-| 08:45 | [IPC - the broken dream of inherent security](http://2018.hack.lu/talks/#IPC+-+the+broken+dream+of+inherent+security) ([Thanh Bui](http://2018.hack.lu/talks/#Thanh+Bui)) |
+| 08:45 | [IPC - the broken dream of inherent security](http://2018.hack.lu/talks/#IPC+-+the+broken+dream+of+inherent+security) ([Thanh Bui](http://2018.hack.lu/talks/#Thanh+Bui), [Siddharth (Sid) Rao](http://2018.hack.lu/talks/#Siddharth+%28Sid%29+Rao)) |
 | 09:30 | [Operating large-scale honeypot sensor networks](http://2018.hack.lu/talks/#Operating+large-scale+honeypot+sensor+networks) ([Piotr Kijewski](http://2018.hack.lu/talks/#Piotr+Kijewski)) |
 | 10:30 | [Abusing Bash for Windows](http://2018.hack.lu/talks/#Abusing+Bash+for+Windows) ([Antoine Cervoise](http://2018.hack.lu/talks/#Antoine+Cervoise)) |
 | 10:50 | [Cl4ndestina: privacy by default with a feminist perspective from the Global South](http://2018.hack.lu/talks/#Cl4ndestina%3A+privacy+by+default+with+a+feminist+perspective+from+the+Global+South) ([Steffania Paola and Narrira Lemos (Cl4ndestina)](http://2018.hack.lu/talks/#Steffania+Paola+and+Narrira+Lemos+%28Cl4ndestina%29)) |
@@ -95,6 +95,6 @@ excerpt: "Agenda - Hack.lu 2018"
 
 | Time | Hollenfels | Echternach - Diekirch - Fischbach | Assembourg | Schengen |
 |:----:|:----------:|:---------------------------------:|:----------:|:--------:|
-| 09:30 |[Reversing and Vulnerability research of Ethereum Smart Contracts](http://2018.hack.lu/talks/#Reversing+and+Vulnerability+research+of+Ethereum+Smart+Contracts) ([Patrick Ventuzelo](http://2018.hack.lu/talks/#Patrick+Ventuzelo)) ||||
+| 09:30 |[Reversing and Vulnerability research of Ethereum Smart Contracts](http://2018.hack.lu/talks/#Reversing+and+Vulnerability+research+of+Ethereum+Smart+Contracts) ([Patrick Ventuzelo](http://2018.hack.lu/talks/#Patrick+Ventuzelo)) |[Python Toolsmithing 101](http://2018.hack.lu/talks/#Python+Toolsmithing+101) ([Didier Stevens](http://2018.hack.lu/talks/#Didier+Stevens)) |||
 | 13:30 |[*Practical* Docker Security Workshop](http://2018.hack.lu/talks/#%2APractical%2A+Docker+Security+Workshop) ([Paul Amar](http://2018.hack.lu/talks/#Paul+Amar)) |[Hands-On Introduction to Exploit Development](http://2018.hack.lu/talks/#Hands-On+Introduction+to+Exploit+Development) ([Georgia Weidman](http://2018.hack.lu/talks/#Georgia+Weidman)) |[Malware Triage: Analyzing Malscripts - Return of The Exploits!](http://2018.hack.lu/talks/#Malware+Triage%3A+Analyzing+Malscripts+-+Return+of+The+Exploits%21) ([Sergei Frankoff](http://2018.hack.lu/talks/#Sergei+Frankoff), [Sean Wilson](http://2018.hack.lu/talks/#Sean+Wilson)) |[Ask Me Anything - MISP](http://2018.hack.lu/talks/#Ask+Me+Anything+-+MISP) ([iglocska](http://2018.hack.lu/talks/#iglocska)) |
 {: class="table"}
