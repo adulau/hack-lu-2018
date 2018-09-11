@@ -1,8 +1,12 @@
 # main links
 main:
+  - title: "Talks"
+    url: /talks/
+  - title: "Agenda"
+    url: /agenda/
   - title: "Sponsoring"
     url: /sponsoring/
-  - title: "Info"
+  - title: "Info & Registration"
     url: /info/
   - title: "Call-for-Papers"
     url: https://cfp.hack.lu/
