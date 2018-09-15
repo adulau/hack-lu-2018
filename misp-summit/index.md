@@ -32,19 +32,65 @@ The MISP Summit will take place from 14:00 to 18:00, Monday 15 October 2018.
 
 | Time | Talks and Speakers |
 |:----:|:------------------:|
-| 14:00 | [Central Intelligence Vetting Platform - Routing threat intelligence centrally](https://2018.hack.lu/misp-summit/#Central+Intelligence+Vetting+Platform+-+Routing+threat+intelligence+centrally) ([Raphael Otto](https://2018.hack.lu/misp-summit/#Raphael+Otto), [George Sedky](https://2018.hack.lu/misp-summit/#George+Sedky)) |
-| 14:25 | [IoC generation from tweet texts](https://2018.hack.lu/misp-summit/#IoC+generation+from+tweet+texts) ([Fernando Alves](https://2018.hack.lu/misp-summit/#Fernando+Alves)) |
-| 14:50 | [Cruising Ocean Threat Without Sinking Using TheHive, Cortex & MISP](https://2018.hack.lu/misp-summit/#Cruising+Ocean+Threat+Without+Sinking+Using+TheHive%2C+Cortex+%26+MISP) ([Saâd Kadhi](https://2018.hack.lu/misp-summit/#Sa%C3%A2d+Kadhi)) |
+| 14:00 | [Central Intelligence Vetting Platform - Routing threat intelligence centrally](https://2018.hack.lu/misp-summit/#central-intelligence-vetting-platform---routing-threat-intelligence-centrally) ([Raphael Otto](https://2018.hack.lu/misp-summit/#Raphael+Otto), [George Sedky](https://2018.hack.lu/misp-summit/#George+Sedky)) |
+| 14:25 | [IoC generation from tweet texts](https://2018.hack.lu/misp-summit/#ioc-generation-from-tweet-texts) ([Fernando Alves](https://2018.hack.lu/misp-summit/#Fernando+Alves)) |
+| 14:50 | [Cruising Ocean Threat Without Sinking Using TheHive, Cortex & MISP](https://2018.hack.lu/misp-summit/#cruising-ocean-threat-without-sinking-using-thehive-cortex--misp) ([Saâd Kadhi](https://2018.hack.lu/misp-summit/#Sa%C3%A2d+Kadhi)) |
 | 15:15 | [MISP Project talk 2](https://2018.hack.lu/misp-summit/#MISP+Project+talk+2) ([info](https://2018.hack.lu/misp-summit/#info)) |
 | 16:00 | [MISP Project talk 1](https://2018.hack.lu/misp-summit/#MISP+Project+talk+1) ([info](https://2018.hack.lu/misp-summit/#info)) |
-| 16:20 | [Logistical Budget: Can we quantitatively compare APTs with MISP](https://2018.hack.lu/misp-summit/#Logistical+Budget%3A+Can+we+quantitatively+compare+APTs+with+MISP) ([Eireann Leverett](https://2018.hack.lu/misp-summit/#Eireann+Leverett), [Bruce Stenning](https://2018.hack.lu/misp-summit/#Bruce+Stenning)) |
-| 16:40 | [From Twitter to MISP: A way to catch and qualify IOCs](https://2018.hack.lu/misp-summit/#From+Twitter+to+MISP%3A+A+way+to+catch+and+qualify+IOCs) ([Sebastien Larinier](https://2018.hack.lu/misp-summit/#Sebastien+Larinier)) |
-| 17:00 | [Building a Security Ecosystem with MISP and McAfee](https://2018.hack.lu/misp-summit/#Building+a+Security+Ecosystem+with+MISP+and+McAfee) ([Martin Ohl](https://2018.hack.lu/misp-summit/#Martin+Ohl)) |
-| 17:20 | [Master of Clusters](https://2018.hack.lu/misp-summit/#Master+of+Clusters) ([Andrea Garavaglia](https://2018.hack.lu/misp-summit/#Andrea+Garavaglia)) |
+| 16:20 | [Logistical Budget: Can we quantitatively compare APTs with MISP](https://2018.hack.lu/misp-summit/#logistical-budget-can-we-quantitatively-compare-apts-with-misp) ([Eireann Leverett](https://2018.hack.lu/misp-summit/#Eireann+Leverett), [Bruce Stenning](https://2018.hack.lu/misp-summit/#Bruce+Stenning)) |
+| 16:40 | [From Twitter to MISP: A way to catch and qualify IOCs](https://2018.hack.lu/misp-summit/#from-twitter-to-misp-a-way-to-catch-and-qualify-iocs) ([Sebastien Larinier](https://2018.hack.lu/misp-summit/#Sebastien+Larinier)) |
+| 17:00 | [Building a Security Ecosystem with MISP and McAfee](https://2018.hack.lu/misp-summit/#building-a-security-ecosystem-with-misp-and-mcafee) ([Martin Ohl](https://2018.hack.lu/misp-summit/#Martin+Ohl)) |
+| 17:20 | [Master of Clusters](https://2018.hack.lu/misp-summit/#master-of-clusters) ([Andrea Garavaglia](https://2018.hack.lu/misp-summit/#Andrea+Garavaglia)) |
 {: class="table"}
 
 
-[Call For Papers for the MISP threat intelligence submit](https://cfp.hack.lu/misp0x4/) is open and we welcome all contributions to gather use cases, best practices, new developments, creative approaches in threat intelligence and especially users of the MISP platform.
+[Call For Papers for the MISP threat intelligence submit](https://cfp.hack.lu/misp0x4/) is closed and we welcomed all contributions to gather use cases, best practices, new developments, creative approaches in threat intelligence and especially users of the MISP platform.
+
+Talks
+-----
+
+## Central Intelligence Vetting Platform - Routing threat intelligence centrally
+
+We created a software named *Central Intelligence Vetting Platform* which aims to help intelligence analysts to vet and route threat intelligence data centrally, across multiple distributed MISP instances.
+
+by Raphael Otto and George Sedky
+
+## IoC generation from tweet texts
+
+This talk describes how to create Indicators of Compromise from tweets. The IoCs are further enriched using a Named Entity Recognizer to select relevant elements from the tweet text.
+
+by Fernando Alves
+
+## Cruising Ocean Threat Without Sinking Using TheHive, Cortex & MISP
+
+TheHive, Cortex and MISP is **highly integrated**, free, open source stack used by many teams to perform CTI & DFIR related activities. In this talk we'll cover
+old & new features to demonstrate the power of the trio.
+
+by Saâd Kadhi
+
+## Logistical Budget: Can we quantitatively compare APTs with MISP
+
+Non technical people want to know if Energetic Bear is more of a threat than Cleaver. They don't have the skill to judge, and they do so by newspaper reports. Can we do better?
+
+by Eireann Leverett and Bruce Stenning
+
+## From Twitter to MISP: A way to catch and qualify IOCs
+
+We present our projet to collect IOCs on Twitter to MISP and how to create a community to share tools, to qualify IOCs and share the data.
+
+by Sebastien Larinier
+
+## Building a Security Ecosystem with MISP and McAfee
+
+This session will examine a reference architecture that enables automated threat hunting and incident response using OpenDXL and the MISP Threat Intelligence Platforms.
+
+by Martin Ohl
+
+## Master of Clusters
+
+An approach to malware clustering using an integration of MISP, cuckoo, Malpedia.
+
+by [Andrea Garavaglia](https://www.linkedin.com/in/andrea-garavaglia-4931969/)
 
 Where
 -----
