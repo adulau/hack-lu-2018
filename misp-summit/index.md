@@ -30,19 +30,24 @@ The MISP Summit will take place from 14:00 to 18:00, Monday 15 October 2018.
 
 {: class="table table-striped"}
 
+{: class="table table-striped"}
+
 | Time | Talks and Speakers |
 |:----:|:------------------:|
-| 14:00 | [Central Intelligence Vetting Platform - Routing threat intelligence centrally](#Central+Intelligence+Vetting+Platform+-+Routing+threat+intelligence+centrally) ([Raphael Otto](#Rap
-hael+Otto), [George Sedky](#George+Sedky)) |
-| 14:25 | [IoC generation from tweet texts](#IoC+generation+from+tweet+texts) ([Fernando Alves](#Fernando+Alves)) |
-| 14:50 | [Cruising Ocean Threat Without Sinking Using TheHive, Cortex & MISP](#Cruising+Ocean+Threat+Without+Sinking+Using+TheHive%2C+Cortex+%26+MISP) ([Saâd Kadhi](#Sa%C3%A2d+Kadhi)) |
-| 15:15 | [MISP Project talk 2](#MISP+Project+talk+2) ([info](#info)) |
-| 16:00 | [MISP Project talk 1](#MISP+Project+talk+1) ([info](#info)) |
-| 16:20 | [Logistical Budget: Can we quantitatively compare APTs with MISP](#Logistical+Budget%3A+Can+we+quantitatively+compare+APTs+with+MISP) ([Eireann Leverett](#Eireann+Leverett), [Bruce
- Stenning](#Bruce+Stenning)) |
-| 16:40 | [From Twitter to MISP: A way to catch and qualify IOCs](#From+Twitter+to+MISP%3A+A+way+to+catch+and+qualify+IOCs) ([Sebastien Larinier](#Sebastien+Larinier)) |
-| 17:00 | [Building a Security Ecosystem with MISP and McAfee](#Building+a+Security+Ecosystem+with+MISP+and+McAfee) ([Martin Ohl](#Martin+Ohl)) |
-| 17:20 | [Master of Clusters](#Master+of+Clusters) ([Andrea Garavaglia](#Andrea+Garavaglia)) |
+| 14:00 | [Central Intelligence Vetting Platform - Routing threat intelligence centrally](https://2018.hack.lu/misp-summit/#Central+Intelligence+Vetting+Platform+-+Routing+threat+intelligenc
+e+centrally) ([Raphael Otto](https://2018.hack.lu/misp-summit/#Raphael+Otto), [George Sedky](https://2018.hack.lu/misp-summit/#George+Sedky)) |
+| 14:25 | [IoC generation from tweet texts](https://2018.hack.lu/misp-summit/#IoC+generation+from+tweet+texts) ([Fernando Alves](https://2018.hack.lu/misp-summit/#Fernando+Alves)) |
+| 14:50 | [Cruising Ocean Threat Without Sinking Using TheHive, Cortex & MISP](https://2018.hack.lu/misp-summit/#Cruising+Ocean+Threat+Without+Sinking+Using+TheHive%2C+Cortex+%26+MISP) ([Saâ
+d Kadhi](https://2018.hack.lu/misp-summit/#Sa%C3%A2d+Kadhi)) |
+| 15:15 | [MISP Project talk 2](https://2018.hack.lu/misp-summit/#MISP+Project+talk+2) ([info](https://2018.hack.lu/misp-summit/#info)) |
+| 16:00 | [MISP Project talk 1](https://2018.hack.lu/misp-summit/#MISP+Project+talk+1) ([info](https://2018.hack.lu/misp-summit/#info)) |
+| 16:20 | [Logistical Budget: Can we quantitatively compare APTs with MISP](https://2018.hack.lu/misp-summit/#Logistical+Budget%3A+Can+we+quantitatively+compare+APTs+with+MISP) ([Eireann Lev
+erett](https://2018.hack.lu/misp-summit/#Eireann+Leverett), [Bruce Stenning](https://2018.hack.lu/misp-summit/#Bruce+Stenning)) |
+| 16:40 | [From Twitter to MISP: A way to catch and qualify IOCs](https://2018.hack.lu/misp-summit/#From+Twitter+to+MISP%3A+A+way+to+catch+and+qualify+IOCs) ([Sebastien Larinier](https://201
+8.hack.lu/misp-summit/#Sebastien+Larinier)) |
+| 17:00 | [Building a Security Ecosystem with MISP and McAfee](https://2018.hack.lu/misp-summit/#Building+a+Security+Ecosystem+with+MISP+and+McAfee) ([Martin Ohl](https://2018.hack.lu/misp-s
+ummit/#Martin+Ohl)) |
+| 17:20 | [Master of Clusters](https://2018.hack.lu/misp-summit/#Master+of+Clusters) ([Andrea Garavaglia](https://2018.hack.lu/misp-summit/#Andrea+Garavaglia)) |
 {: class="table"}
 
 
