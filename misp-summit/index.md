@@ -30,12 +30,9 @@ The MISP Summit will take place from 14:00 to 18:00, Monday 15 October 2018.
 
 {: class="table table-striped"}
 
-{: class="table table-striped"}
-
 | Time | Talks and Speakers |
 |:----:|:------------------:|
-| 14:00 | [Central Intelligence Vetting Platform - Routing threat intelligence centrally](https://2018.hack.lu/misp-summit/#Central+Intelligence+Vetting+Platform+-+Routing+threat+intelligenc
-e+centrally) ([Raphael Otto](https://2018.hack.lu/misp-summit/#Raphael+Otto), [George Sedky](https://2018.hack.lu/misp-summit/#George+Sedky)) |
+| 14:00 | [Central Intelligence Vetting Platform - Routing threat intelligence centrally](https://2018.hack.lu/misp-summit/#Central+Intelligence+Vetting+Platform+-+Routing+threat+intelligence+centrally) ([Raphael Otto](https://2018.hack.lu/misp-summit/#Raphael+Otto), [George Sedky](https://2018.hack.lu/misp-summit/#George+Sedky)) |
 | 14:25 | [IoC generation from tweet texts](https://2018.hack.lu/misp-summit/#IoC+generation+from+tweet+texts) ([Fernando Alves](https://2018.hack.lu/misp-summit/#Fernando+Alves)) |
 | 14:50 | [Cruising Ocean Threat Without Sinking Using TheHive, Cortex & MISP](https://2018.hack.lu/misp-summit/#Cruising+Ocean+Threat+Without+Sinking+Using+TheHive%2C+Cortex+%26+MISP) ([Saâ
 d Kadhi](https://2018.hack.lu/misp-summit/#Sa%C3%A2d+Kadhi)) |
