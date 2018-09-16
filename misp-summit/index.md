@@ -36,7 +36,8 @@ The MISP Summit will take place from 14:00 to 18:00, Monday 15 October 2018.
 | 14:25 | [IoC generation from tweet texts](https://2018.hack.lu/misp-summit/#ioc-generation-from-tweet-texts) ([Fernando Alves](https://2018.hack.lu/misp-summit/#Fernando+Alves)) |
 | 14:50 | [Cruising Ocean Threat Without Sinking Using TheHive, Cortex & MISP](https://2018.hack.lu/misp-summit/#cruising-ocean-threat-without-sinking-using-thehive-cortex--misp) ([Saâd Kadhi](https://2018.hack.lu/misp-summit/#Sa%C3%A2d+Kadhi)) |
 | 15:15 | [MISP Project talk 2](https://2018.hack.lu/misp-summit/#MISP+Project+talk+2) ([info](https://2018.hack.lu/misp-summit/#info)) |
-| 16:00 | [MISP Project talk 1](https://2018.hack.lu/misp-summit/#MISP+Project+talk+1) ([info](https://2018.hack.lu/misp-summit/#info)) |
+| 15:45 | [MISP Project talk 1](https://2018.hack.lu/misp-summit/#MISP+Project+talk+1) ([info](https://2018.hack.lu/misp-summit/#info)) |
+| 16:10 | [misp42splunk](https://2018.hack.lu/misp-summit/#misp42splunk) ([Rémi Ségui]()) |
 | 16:20 | [Logistical Budget: Can we quantitatively compare APTs with MISP](https://2018.hack.lu/misp-summit/#logistical-budget-can-we-quantitatively-compare-apts-with-misp) ([Eireann Leverett](https://2018.hack.lu/misp-summit/#Eireann+Leverett), [Bruce Stenning](https://2018.hack.lu/misp-summit/#Bruce+Stenning)) |
 | 16:40 | [From Twitter to MISP: A way to catch and qualify IOCs](https://2018.hack.lu/misp-summit/#from-twitter-to-misp-a-way-to-catch-and-qualify-iocs) ([Sebastien Larinier](https://2018.hack.lu/misp-summit/#Sebastien+Larinier)) |
 | 17:00 | [Building a Security Ecosystem with MISP and McAfee](https://2018.hack.lu/misp-summit/#building-a-security-ecosystem-with-misp-and-mcafee) ([Martin Ohl](https://2018.hack.lu/misp-summit/#Martin+Ohl)) |
@@ -67,6 +68,20 @@ TheHive, Cortex and MISP is **highly integrated**, free, open source stack used 
 old & new features to demonstrate the power of the trio.
 
 by Saâd Kadhi
+
+## misp42splunk
+
+misp42splunk app connects MISP and Splunk. The app is designed to be easy to install, set up and maintain using the Splunk GUI
+without editing directly files. You can use as many MISP instances as you like; one being defined at setup time to be the default instance.
+
+The main use cases are:
+
+MISP to SPLUNK: get MISP event attributes into Splunk search pipeline: | mispgetioc params | .... see
+MISP for SPLUNK: 2 Splunk alert actions are available to directly create events or increment attribute sighting in a MISP instance.
+
+BONUS: You can also create Splunk alert action to create The Hive alerts
+
+by Rémi Séguy
 
 ## Logistical Budget: Can we quantitatively compare APTs with MISP
 
