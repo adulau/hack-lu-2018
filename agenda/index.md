@@ -5,10 +5,6 @@ excerpt: "Agenda - Hack.lu 2018"
 ---
 
 
-## Monday 15 October 2018 PM (pre-event)
-
-[MISP Threat Intelligence Summit 0x04 at hack.lu 2018. Practical threat intelligence and information sharing for everyone.](https://2018.hack.lu/misp-summit/)
-
 ## Tuesday 16 October 2018 (Talk)
 
 {: class="table table-striped"}
@@ -39,6 +35,7 @@ excerpt: "Agenda - Hack.lu 2018"
 | 09:30 | [Operating large-scale honeypot sensor networks](http://2018.hack.lu/talks/#Operating+large-scale+honeypot+sensor+networks) ([Piotr Kijewski](http://2018.hack.lu/talks/#Piotr+Kijewski)) |
 | 10:30 | [Abusing Bash for Windows](http://2018.hack.lu/talks/#Abusing+Bash+for+Windows) ([Antoine Cervoise](http://2018.hack.lu/talks/#Antoine+Cervoise)) |
 | 10:50 | [Cl4ndestina: privacy by default with a feminist perspective from the Global South](http://2018.hack.lu/talks/#Cl4ndestina%3A+privacy+by+default+with+a+feminist+perspective+from+the+Global+South) ([Steffania Paola and Narrira Lemos (Cl4ndestina)](http://2018.hack.lu/talks/#Steffania+Paola+and+Narrira+Lemos+%28Cl4ndestina%29)) |
+| 11:15 | [encrypt! organize! resist!: digital safety for politically vulnerable organizations & civil society](http://2018.hack.lu/talks/#encrypt%21+organize%21+resist%21%3A+digital+safety+for+politically+vulnerable+organizations+%26+civil+society) ([Matt "mateo" Mitchell](http://2018.hack.lu/talks/#Matt+%22mateo%22+Mitchell)) |
 | 13:00 | [14 Easy Lessons for Thinking About Complex Adversarial Systems](http://2018.hack.lu/talks/#14+Easy+Lessons+for+Thinking+About+Complex+Adversarial+Systems) ([Eleanor Saitta](http://2018.hack.lu/talks/#Eleanor+Saitta)) |
 | 13:30 | [Education & communication](http://2018.hack.lu/talks/#Education+%26+communication) ([Ange Albertini](http://2018.hack.lu/talks/#Ange+Albertini)) |
 | 14:15 | [Make ARM Shellcode Great Again](http://2018.hack.lu/talks/#Make+ARM+Shellcode+Great+Again) ([Saumil Udayan Shah](http://2018.hack.lu/talks/#Saumil+Udayan+Shah)) |
@@ -67,7 +64,7 @@ excerpt: "Agenda - Hack.lu 2018"
 | 14:15 | [Breaking Parser Logic: Take Your Path Normalization off and Pop 0days Out!](http://2018.hack.lu/talks/#Breaking+Parser+Logic%3A+Take+Your+Path+Normalization+off+and+Pop+0days+Out%21) ([Orange Tsai](http://2018.hack.lu/talks/#Orange+Tsai)) |
 | 15:00 | [Modern pentest tricks for faster, wider, greater engagements](http://2018.hack.lu/talks/#Modern+pentest+tricks+for+faster%2C+wider%2C+greater+engagements) ([Thomas Debize](http://2018.hack.lu/talks/#Thomas+Debize)) |
 | 16:00 | [Serial-Killer: Security Analysis of Industrial Serial Device Servers](http://2018.hack.lu/talks/#Serial-Killer%3A+Security+Analysis+of+Industrial+Serial+Device+Servers) ([Florian Adamsky](http://2018.hack.lu/talks/#Florian+Adamsky)) |
-| 17:00 | [Attacks on critical infrastructure and machinery](http://2018.hack.lu/talks/#Attacks+on+critical+infrastructure+and+machinery) ([voffchik](http://2018.hack.lu/talks/#voffchik)) |
+| 17:00 | [Attacks on Critical Infrastructure and Machinery](http://2018.hack.lu/talks/#Attacks+on+Critical+Infrastructure+and+Machinery) ([Vladimir Kropotov](http://2018.hack.lu/talks/#Vladimir+Kropotov), [Dr. Fyodor Yarochkin](http://2018.hack.lu/talks/#Dr.+Fyodor+Yarochkin)) |
 | 17:45 | [Practical and Affordable Side-Channel Attacks](http://2018.hack.lu/talks/#Practical+and+Affordable+Side-Channel+Attacks) ([Francois Durvaux](http://2018.hack.lu/talks/#Francois+Durvaux)) |
 {: class="table"}
 
@@ -102,9 +99,3 @@ excerpt: "Agenda - Hack.lu 2018"
 | 09:30 |[Reversing and Vulnerability research of Ethereum Smart Contracts](http://2018.hack.lu/talks/#Reversing+and+Vulnerability+research+of+Ethereum+Smart+Contracts) ([Patrick Ventuzelo](http://2018.hack.lu/talks/#Patrick+Ventuzelo)) |[Python Toolsmithing 101](http://2018.hack.lu/talks/#Python+Toolsmithing+101) ([Didier Stevens](http://2018.hack.lu/talks/#Didier+Stevens)) |||
 | 13:30 |[*Practical* Docker Security Workshop](http://2018.hack.lu/talks/#%2APractical%2A+Docker+Security+Workshop) ([Paul Amar](http://2018.hack.lu/talks/#Paul+Amar)) |[Hands-On Introduction to Exploit Development](http://2018.hack.lu/talks/#Hands-On+Introduction+to+Exploit+Development) ([Georgia Weidman](http://2018.hack.lu/talks/#Georgia+Weidman)) |[Malware Triage: Analyzing Malscripts - Return of The Exploits!](http://2018.hack.lu/talks/#Malware+Triage%3A+Analyzing+Malscripts+-+Return+of+The+Exploits%21) ([Sergei Frankoff](http://2018.hack.lu/talks/#Sergei+Frankoff), [Sean Wilson](http://2018.hack.lu/talks/#Sean+Wilson)) |[Ask Me Anything - MISP](http://2018.hack.lu/talks/#Ask+Me+Anything+-+MISP) ([iglocska](http://2018.hack.lu/talks/#iglocska)) |
 {: class="table"}
-
-## Friday 19 October 2018 (after-event)
-
-- [BSides Luxembourg](https://bsideslux.lu/2018/)
-- EU ATT&CK community user-group meeting
-
