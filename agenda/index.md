@@ -5,6 +5,10 @@ excerpt: "Agenda - Hack.lu 2018"
 ---
 
 
+## Monday 15 October 2018 PM (pre-event)
+
+[MISP Threat Intelligence Summit 0x04 at hack.lu 2018. Practical threat intelligence and information sharing for everyone.](https://2018.hack.lu/misp-summit/)
+
 ## Tuesday 16 October 2018 (Talk)
 
 {: class="table table-striped"}
@@ -99,3 +103,8 @@ excerpt: "Agenda - Hack.lu 2018"
 | 09:30 |[Reversing and Vulnerability research of Ethereum Smart Contracts](http://2018.hack.lu/talks/#Reversing+and+Vulnerability+research+of+Ethereum+Smart+Contracts) ([Patrick Ventuzelo](http://2018.hack.lu/talks/#Patrick+Ventuzelo)) |[Python Toolsmithing 101](http://2018.hack.lu/talks/#Python+Toolsmithing+101) ([Didier Stevens](http://2018.hack.lu/talks/#Didier+Stevens)) |||
 | 13:30 |[*Practical* Docker Security Workshop](http://2018.hack.lu/talks/#%2APractical%2A+Docker+Security+Workshop) ([Paul Amar](http://2018.hack.lu/talks/#Paul+Amar)) |[Hands-On Introduction to Exploit Development](http://2018.hack.lu/talks/#Hands-On+Introduction+to+Exploit+Development) ([Georgia Weidman](http://2018.hack.lu/talks/#Georgia+Weidman)) |[Malware Triage: Analyzing Malscripts - Return of The Exploits!](http://2018.hack.lu/talks/#Malware+Triage%3A+Analyzing+Malscripts+-+Return+of+The+Exploits%21) ([Sergei Frankoff](http://2018.hack.lu/talks/#Sergei+Frankoff), [Sean Wilson](http://2018.hack.lu/talks/#Sean+Wilson)) |[Ask Me Anything - MISP](http://2018.hack.lu/talks/#Ask+Me+Anything+-+MISP) ([iglocska](http://2018.hack.lu/talks/#iglocska)) |
 {: class="table"}
+
+## Friday 19 October 2018 (after-event)
+
+- [BSides Luxembourg](https://bsideslux.lu/2018/)
+- EU ATT&CK community user-group meeting
