@@ -6,6 +6,17 @@ excerpt: "Talks - Hack.lu 2018"
 
 # Keynotes
 
+## <a name="encrypt%21+organize%21+resist%21%3A+digital+safety+for+politically+vulnerable+organizations+%26+civil+society"></a>encrypt! organize! resist!: digital safety for politically vulnerable organizations & civil society
+by Matt "mateo" Mitchell
+
+Matt will explain his framework for implementing digital safety for groups of human rights defenders, activists, nonprofits, & ngos. on what it takes to change the trajectory of an organization to safeguard their mission & protect them from digital threats. Often these organization are facing sophisticated and persistent adversaries. This presentation focuses on how to roll out to tenants of organizational digital hygiene in challenging environments. security policies, data retention programs, incident response plans, & crisis management drills will be covered.
+
+
+### Bio: <a name="Matt+%22mateo%22+Mitchell"></a>Matt "mateo" Mitchell
+
+Matt is a digital safety expert, operational security training and currently the director of digital safety and privacy at tactical technology collective. Matt comes to this work from many years of experience in the risk consulting, analysis and mitigation arena, most recently with GJS Security. He is also the founder of cryptoharlem, a project focused on teaching digital rights & circumvention technology to marginalized folks in new york city's predominately black & latinx harlem neighborhood.
+
+
 ## <a name="Real+World%3A+Threat+Intelligence"></a>Real World: Threat Intelligence
 by Elle Armageddon
 
@@ -394,15 +405,20 @@ This talk will discuss the Electron framework, question its quirks and DEMO you 
 My name is Silvia Väli. I am a security researcher from Estonia, working as a web-application pentester in Clarified Security. I am also a member of the Blackhoodie group, which is a female-only reverse engineering workshop. Electron application security was something I was working on for my master's degree  (2018) and it became into a project I continue to research further on as there is so much yet to be discovered and stories to be told.
 
 
-## <a name="Attacks+on+critical+infrastructure+and+machinery"></a>Attacks on critical infrastructure and machinery
-by 
+## <a name="Attacks+on+Critical+Infrastructure+and+Machinery"></a>Attacks on Critical Infrastructure and Machinery
+by Vladimir Kropotov, Dr. Fyodor Yarochkin
 
--
+This presentation covers a number of case studies of breaches within critical infrastructure information network. You may think that  no one in their sane mind would put a nuclear plant control system online? Then you possibly are making a mistake. From telecommunication networks to transport, water and energy  infrastructure: the authors will demonstrate how simple mistakes could potentially led to high risks of catastrophic failures.
 
 
-### Bio: <a name=""></a>
+### Bio: <a name="Vladimir+Kropotov"></a>Vladimir Kropotov
 
-None
+Vladimir Kropotov is a researcher with Trend Micro FTR team. Active for over 15 years in information security projects and research, he previously built and led incident response teams at Fortune 500 companies and was head of the Incident Response Team at Positive Technologies. He holds a masters degree in applied mathematics and information security. He also participates in various projects for leading financial, industrial, and telecom companies. His main interests lie in network traffic analysis, incident response, and botnet and cybercrime investigations. Vladimir regularly appears at high-profile international conferences such as FIRST, CARO, HITB, Hack.lu, PHDays, ZeroNights, POC, Hitcon, Black Hat EU and many others
+
+
+### Bio: <a name="Dr.+Fyodor+Yarochkin"></a>Dr. Fyodor Yarochkin
+
+Fyodor is a threat researcher with FTR/TrendMicro Taiwan and holds a Ph.D. from EE, National Taiwan University. Fyodor is mainly focused on regional threat investigations, Russian and Chinese underground studies as well as automation of threat hunting process. Prior to TrendMicro, Fyodor professional experience includes several years as a threat analyst and over eight years as an information security analyst responding to network, security breaches and conducting remote network security assessments and network intrusion tests for the majority of regional banking, finance, semiconductor and telecommunication organizations. Fyodor is an active member of local security community and has spoken at a number of conferences regionally and globally.
 
 
 ## <a name="APIs+are+critical+to+security+people+-+what+I+learned+trying+to+discover+useful+APIs"></a>APIs are critical to security people - what I learned trying to discover useful APIs
