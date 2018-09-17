@@ -39,7 +39,7 @@ The MISP Summit will take place from 14:00 to 18:00, Monday 15 October 2018.
 | 15:45 | [MISP Project talk 1](https://2018.hack.lu/misp-summit/#MISP+Project+talk+1) ([info](https://2018.hack.lu/misp-summit/#info)) |
 | 16:10 | [misp42splunk](https://2018.hack.lu/misp-summit/#misp42splunk) ([Rémi Ségui]()) |
 | 16:20 | [Logistical Budget: Can we quantitatively compare APTs with MISP](https://2018.hack.lu/misp-summit/#logistical-budget-can-we-quantitatively-compare-apts-with-misp) ([Eireann Leverett](https://2018.hack.lu/misp-summit/#Eireann+Leverett), [Bruce Stenning](https://2018.hack.lu/misp-summit/#Bruce+Stenning)) |
-| 16:40 | [From Twitter to MISP: A way to catch and qualify IOCs](https://2018.hack.lu/misp-summit/#from-twitter-to-misp-a-way-to-catch-and-qualify-iocs) ([Sebastien Larinier](https://2018.hack.lu/misp-summit/#Sebastien+Larinier)) |
+| 16:40 | [From Twitter to MISP: A way to catch and qualify IOCs](https://2018.hack.lu/misp-summit/#from-twitter-to-misp-a-way-to-catch-and-qualify-iocs) ([Sebastien Larinier](https://2018.hack.lu/misp-summit/#Sebastien+Larinier)),  Ambroise Terrier|
 | 17:00 | [Building a Security Ecosystem with MISP and McAfee](https://2018.hack.lu/misp-summit/#building-a-security-ecosystem-with-misp-and-mcafee) ([Martin Ohl](https://2018.hack.lu/misp-summit/#Martin+Ohl)) |
 | 17:20 | [Master of Clusters](https://2018.hack.lu/misp-summit/#master-of-clusters) ([Andrea Garavaglia](https://2018.hack.lu/misp-summit/#Andrea+Garavaglia)) |
 {: class="table"}
@@ -91,9 +91,9 @@ by Eireann Leverett and Bruce Stenning
 
 ## From Twitter to MISP: A way to catch and qualify IOCs
 
-We present our projet to collect IOCs on Twitter to MISP and how to create a community to share tools, to qualify IOCs and share the data.
+We present our project to collect IOCs on Twitter to MISP and how to create a community to share tools, to qualify IOCs and share the data.
 
-by Sebastien Larinier
+by Sebastien Larinier and Ambroise Terrier
 
 ## Building a Security Ecosystem with MISP and McAfee
 
