@@ -107,4 +107,4 @@ excerpt: "Agenda - Hack.lu 2018"
 ## Friday 19 October 2018 (after-event)
 
 - [BSides Luxembourg](https://bsideslux.lu/2018/)
-- EU ATT&CK community user-group meeting
+- [EU ATT&CK community user-group meeting](https://www.attack-community.org/event/)
