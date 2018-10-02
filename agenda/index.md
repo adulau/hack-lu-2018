@@ -61,7 +61,7 @@ excerpt: "Agenda - Hack.lu 2018"
 | 08:45 | [Worms that turn: nematodes and neotodes](http://2018.hack.lu/talks/#Worms+that+turn%3A+nematodes+and+neotodes) ([Matt Wixey](http://2018.hack.lu/talks/#Matt+Wixey)) |
 | 09:30 | [Mind the (Air)Gap](http://2018.hack.lu/talks/#Mind+the+%28Air%29Gap) ([Erez Yalon](http://2018.hack.lu/talks/#Erez+Yalon), [Pedro Umbelino](http://2018.hack.lu/talks/#Pedro+Umbelino)) |
 | 10:30 | [Not So Random](http://2018.hack.lu/talks/#Not+So+Random) ([Guenaelle De Julis - @b4stet4](http://2018.hack.lu/talks/#Guenaelle+De+Julis+-+%40b4stet4)) |
-| 10:50 | [Dissecting Of Non-Malicious Artifacts: One IP At A Time](http://2018.hack.lu/talks/#Dissecting+Of+Non-Malicious+Artifacts%3A+One+IP+At+A+Time) ([Dani Goland](http://2018.hack.lu/talks/#Dani+Goland), [Ido Naor](http://2018.hack.lu/talks/#Ido+Naor)) |
+| 10:50 | [How we trained the dragon^H classified APKs via ANNs](http://2018.hack.lu/talks/#How+we+trained+the+dragon%5EH+classified+APKs+via+ANNs) ([Roman Graf](http://2018.hack.lu/talks/#Roman+Graf), [Aaron Kaplan](http://2018.hack.lu/talks/#Aaron+Kaplan)) |
 | 11:15 | [Improving Internet Security Through Cooperation: SIE Europe in 2018](http://2018.hack.lu/talks/#Improving+Internet+Security+Through+Cooperation%3A+SIE+Europe+in+2018) ([Paul Vixie](http://2018.hack.lu/talks/#Paul+Vixie)) |
 | 13:00 | [Building with Privacy by Design](http://2018.hack.lu/talks/#Building+with+Privacy+by+Design) ([Naomi Freeman](http://2018.hack.lu/talks/#Naomi+Freeman)) |
 | 13:30 | [Only an Electron Away from Code Execution](http://2018.hack.lu/talks/#Only+an+Electron+Away+from+Code+Execution) ([Silvia Väli](http://2018.hack.lu/talks/#Silvia+V%C3%A4li)) |
