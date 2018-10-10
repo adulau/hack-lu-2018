@@ -76,10 +76,10 @@ excerpt: "Agenda - Hack.lu 2018"
 
 {: class="table table-striped"}
 
-| Time | Hollenfels | Echternach - Diekirch - Fischbach | Assembourg | Schengen |
-|:----:|:----------:|:---------------------------------:|:----------:|:--------:|
-| 09:30 |[ARM IoT Firmware Emulation](http://2018.hack.lu/talks/#ARM+IoT+Firmware+Emulation) ([Saumil Udayan Shah](http://2018.hack.lu/talks/#Saumil+Udayan+Shah)) |[Android RE workshop](http://2018.hack.lu/talks/#Android+RE+workshop) ([Axelle Apvrille](http://2018.hack.lu/talks/#Axelle+Apvrille)) |[Introduction to Bro Network Security Monitor](http://2018.hack.lu/talks/#Introduction+to+Bro+Network+Security+Monitor) ([Eva Szilagyi](http://2018.hack.lu/talks/#Eva+Szilagyi), [David Szili](http://2018.hack.lu/talks/#David+Szili)) ||
-| 13:30 |[Hacking mobile data and phone calls](http://2018.hack.lu/talks/#Hacking+mobile+data+and+phone+calls) ([Priya Chalakkal](http://2018.hack.lu/talks/#Priya+Chalakkal)) |[Bypassing Windows Driver Signature Enforcement](http://2018.hack.lu/talks/#Bypassing+Windows+Driver+Signature+Enforcement) ([Csaba Fitzl](http://2018.hack.lu/talks/#Csaba+Fitzl)) |[Finding security vulnerabilities with modern fuzzing techniques](http://2018.hack.lu/talks/#Finding+security+vulnerabilities+with+modern+fuzzing+techniques) ([René Freingruber](http://2018.hack.lu/talks/#Ren%C3%A9+Freingruber)) ||
+| Time | Hollenfels | Vianden - Wiltz |Echternach - Diekirch | Schengen |
+|:----:|:----------:|:---------------:|:--------------------:|:--------:|
+| 09:30 |[ARM IoT Firmware Emulation](http://2018.hack.lu/talks/#ARM+IoT+Firmware+Emulation) ([Saumil Udayan Shah](http://2018.hack.lu/talks/#Saumil+Udayan+Shah)) |[Introduction to Bro Network Security Monitor](http://2018.hack.lu/talks/#Introduction+to+Bro+Network+Security+Monitor) ([Eva Szilagyi](http://2018.hack.lu/talks/#Eva+Szilagyi), [David Szili](http://2018.hack.lu/talks/#David+Szili)) |[Android RE workshop](http://2018.hack.lu/talks/#Android+RE+workshop) ([Axelle Apvrille](http://2018.hack.lu/talks/#Axelle+Apvrille)) ||
+| 13:30 |[Hacking mobile data and phone calls](http://2018.hack.lu/talks/#Hacking+mobile+data+and+phone+calls) ([Priya Chalakkal](http://2018.hack.lu/talks/#Priya+Chalakkal)) |[Finding security vulnerabilities with modern fuzzing techniques](http://2018.hack.lu/talks/#Finding+security+vulnerabilities+with+modern+fuzzing+techniques) ([René Freingruber](http://2018.hack.lu/talks/#Ren%C3%A9+Freingruber)) |[Bypassing Windows Driver Signature Enforcement](http://2018.hack.lu/talks/#Bypassing+Windows+Driver+Signature+Enforcement) ([Csaba Fitzl](http://2018.hack.lu/talks/#Csaba+Fitzl)) ||
 {: class="table"}
 
 
@@ -87,10 +87,10 @@ excerpt: "Agenda - Hack.lu 2018"
 
 {: class="table table-striped"}
 
-| Time | Hollenfels | Echternach - Diekirch - Fischbach | Assembourg | Schengen |
-|:----:|:----------:|:---------------------------------:|:----------:|:--------:|
-| 09:30 |[Teenage Mutant Binja Turtles](http://2018.hack.lu/talks/#Teenage+Mutant+Binja+Turtles) ([Benedikt Schmotzle (byte_swap)](http://2018.hack.lu/talks/#Benedikt+Schmotzle+%28byte_swap%29)) |[Log Hunting with Sigma](http://2018.hack.lu/talks/#Log+Hunting+with+Sigma) ([Thomas Patzke](http://2018.hack.lu/talks/#Thomas+Patzke)) |[MONARC hands-on with a case study](http://2018.hack.lu/talks/#MONARC+hands-on+with+a+case+study) ([Fabien Mathey](http://2018.hack.lu/talks/#Fabien+Mathey)) ||
-| 13:30 |[The Hive / MISP](http://2018.hack.lu/talks/#The+Hive+%2F+MISP) ([Adulau](http://2018.hack.lu/talks/#Adulau)) |[Getting Your Hands Dirty: How to Analyze the Behavior of Malware Traffic and Web Connections](http://2018.hack.lu/talks/#Getting+Your+Hands+Dirty%3A+How+to+Analyze+the+Behavior+of+Malware+Traffic+and+Web+Connections) ([Veronica Valeros](http://2018.hack.lu/talks/#Veronica+Valeros), [Sebastian Garcia](http://2018.hack.lu/talks/#Sebastian+Garcia)) |[Intro to Binary Analysis with Z3 and Angr](http://2018.hack.lu/talks/#Intro+to+Binary+Analysis+with+Z3+and+Angr) ([Sam Brown](http://2018.hack.lu/talks/#Sam+Brown)) |[Unpacking for Dummies](http://2018.hack.lu/talks/#Unpacking+for+Dummies) ([Paul Jung & Remi Chipaux](http://2018.hack.lu/talks/#Paul+Jung+%26+Remi+Chipaux)) |
+| Time | Hollenfels | Vianden - Wiltz |Echternach - Diekirch | Schengen |
+|:----:|:----------:|:---------------:|:--------------------:|:--------:|
+| 09:30 |[Teenage Mutant Binja Turtles](http://2018.hack.lu/talks/#Teenage+Mutant+Binja+Turtles) ([Benedikt Schmotzle (byte_swap)](http://2018.hack.lu/talks/#Benedikt+Schmotzle+%28byte_swap%29)) |[MONARC hands-on with a case study](http://2018.hack.lu/talks/#MONARC+hands-on+with+a+case+study) ([Fabien Mathey](http://2018.hack.lu/talks/#Fabien+Mathey)) |[Log Hunting with Sigma](http://2018.hack.lu/talks/#Log+Hunting+with+Sigma) ([Thomas Patzke](http://2018.hack.lu/talks/#Thomas+Patzke)) ||
+| 13:30 |[The Hive / MISP](http://2018.hack.lu/talks/#The+Hive+%2F+MISP) ([Adulau](http://2018.hack.lu/talks/#Adulau)) |[Intro to Binary Analysis with Z3 and Angr](http://2018.hack.lu/talks/#Intro+to+Binary+Analysis+with+Z3+and+Angr) ([Sam Brown](http://2018.hack.lu/talks/#Sam+Brown)) |[Getting Your Hands Dirty: How to Analyze the Behavior of Malware Traffic and Web Connections](http://2018.hack.lu/talks/#Getting+Your+Hands+Dirty%3A+How+to+Analyze+the+Behavior+of+Malware+Traffic+and+Web+Connections) ([Veronica Valeros](http://2018.hack.lu/talks/#Veronica+Valeros), [Sebastian Garcia](http://2018.hack.lu/talks/#Sebastian+Garcia)) |[Unpacking for Dummies](http://2018.hack.lu/talks/#Unpacking+for+Dummies) ([Paul Jung & Remi Chipaux](http://2018.hack.lu/talks/#Paul+Jung+%26+Remi+Chipaux)) |
 {: class="table"}
 
 
@@ -98,10 +98,10 @@ excerpt: "Agenda - Hack.lu 2018"
 
 {: class="table table-striped"}
 
-| Time | Hollenfels | Echternach - Diekirch - Fischbach | Assembourg | Schengen |
-|:----:|:----------:|:---------------------------------:|:----------:|:--------:|
-| 09:30 |[Reversing and Vulnerability research of Ethereum Smart Contracts](http://2018.hack.lu/talks/#Reversing+and+Vulnerability+research+of+Ethereum+Smart+Contracts) ([Patrick Ventuzelo](http://2018.hack.lu/talks/#Patrick+Ventuzelo)) |[Python Toolsmithing 101](http://2018.hack.lu/talks/#Python+Toolsmithing+101) ([Didier Stevens](http://2018.hack.lu/talks/#Didier+Stevens)) |||
-| 13:30 |[*Practical* Docker Security Workshop](http://2018.hack.lu/talks/#%2APractical%2A+Docker+Security+Workshop) ([Paul Amar](http://2018.hack.lu/talks/#Paul+Amar)) |[Ask Me Anything - MISP](http://2018.hack.lu/talks/#Ask+Me+Anything+-+MISP) ([iglocska](http://2018.hack.lu/talks/#iglocska)) |[Malware Triage: Analyzing Malscripts - Return of The Exploits!](http://2018.hack.lu/talks/#Malware+Triage%3A+Analyzing+Malscripts+-+Return+of+The+Exploits%21) ([Sergei Frankoff](http://2018.hack.lu/talks/#Sergei+Frankoff), [Sean Wilson](http://2018.hack.lu/talks/#Sean+Wilson)) ||
+| Time | Hollenfels | Vianden - Wiltz |Echternach - Diekirch | Schengen |
+|:----:|:----------:|:---------------:|:--------------------:|:--------:|
+| 09:30 |[Reversing and Vulnerability research of Ethereum Smart Contracts](http://2018.hack.lu/talks/#Reversing+and+Vulnerability+research+of+Ethereum+Smart+Contracts) ([Patrick Ventuzelo](http://2018.hack.lu/talks/#Patrick+Ventuzelo)) ||[Python Toolsmithing 101](http://2018.hack.lu/talks/#Python+Toolsmithing+101) ([Didier Stevens](http://2018.hack.lu/talks/#Didier+Stevens)) ||
+| 13:30 |[*Practical* Docker Security Workshop](http://2018.hack.lu/talks/#%2APractical%2A+Docker+Security+Workshop) ([Paul Amar](http://2018.hack.lu/talks/#Paul+Amar)) |[Malware Triage: Analyzing Malscripts - Return of The Exploits!](http://2018.hack.lu/talks/#Malware+Triage%3A+Analyzing+Malscripts+-+Return+of+The+Exploits%21) ([Sergei Frankoff](http://2018.hack.lu/talks/#Sergei+Frankoff), [Sean Wilson](http://2018.hack.lu/talks/#Sean+Wilson)) |[Ask Me Anything - MISP](http://2018.hack.lu/talks/#Ask+Me+Anything+-+MISP) ([iglocska](http://2018.hack.lu/talks/#iglocska)) ||
 {: class="table"}
 
 ## Friday 19 October 2018 (after-event)
