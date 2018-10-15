@@ -43,7 +43,7 @@ The MISP Summit will take place from 14:00 to 19:00, Monday 15 October 2018.
 | 17:20 | [Master of Clusters](https://2018.hack.lu/misp-summit/#master-of-clusters) ([Andrea Garavaglia](https://2018.hack.lu/misp-summit/#Andrea+Garavaglia)) |
 | 17:40 | [Cruising Ocean Threat Without Sinking Using TheHive, Cortex & MISP](https://2018.hack.lu/misp-summit/#cruising-ocean-threat-without-sinking-using-thehive-cortex--misp) ([Saâd Kadhi](https://2018.hack.lu/misp-summit/#Sa%C3%A2d+Kadhi)) |
 | 18:00 | [Logistical Budget: Can we quantitatively compare APTs with MISP](https://2018.hack.lu/misp-summit/#logistical-budget-can-we-quantitatively-compare-apts-with-misp) ([Eireann Leverett](https://2018.hack.lu/misp-summit/#Eireann+Leverett), [Bruce Stenning](https://2018.hack.lu/misp-summit/#Bruce+Stenning)) |
-| 18:20 | Enrichment and Quality IoC Creation from OSINT -  Rui Azevedo |
+| 18:20 | [Enrichment and Quality IoC Creation from OSINT](https://2018.hack.lu/misp-summit/#enrichment-and-quality-ioc-creation-from-osint) -  Rui Azevedo |
 | 18:40 | MISP Project future |
 
 {: class="table"}
