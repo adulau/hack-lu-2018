@@ -35,8 +35,8 @@ The MISP Summit will take place from 14:00 to 19:00, Monday 15 October 2018.
 | 14:00 | [Central Intelligence Vetting Platform - Routing threat intelligence centrally](https://2018.hack.lu/misp-summit/#central-intelligence-vetting-platform---routing-threat-intelligence-centrally) ([Raphael Otto](https://2018.hack.lu/misp-summit/#Raphael+Otto), [George Sedky](https://2018.hack.lu/misp-summit/#George+Sedky)) |
 | 14:25 | [IoC generation from tweet texts](https://2018.hack.lu/misp-summit/#ioc-generation-from-tweet-texts) ([Fernando Alves](https://2018.hack.lu/misp-summit/#Fernando+Alves)) |
 | 14:50 | [Building a Security Ecosystem with MISP and McAfee](https://2018.hack.lu/misp-summit/#building-a-security-ecosystem-with-misp-and-mcafee) ([Martin Ohl](https://2018.hack.lu/misp-summit/#Martin+Ohl)) |
-| 15:15 | [MISP Project talk 2](https://2018.hack.lu/misp-summit/#MISP+Project+talk+2) ([info](https://2018.hack.lu/misp-summit/#info)) |
-| 15:45 | [MISP Project talk 1](https://2018.hack.lu/misp-summit/#MISP+Project+talk+1) ([info](https://2018.hack.lu/misp-summit/#info)) |
+| 15:15 | [MISP Project - One Year of Improvements](https://2018.hack.lu/misp-summit/#MISP+Project+talk+2) ([info](https://2018.hack.lu/misp-summit/#info)) |
+| 15:45 | [MISP Project](https://2018.hack.lu/misp-summit/#MISP+Project+talk+1) ([info](https://2018.hack.lu/misp-summit/#info)) |
 | 16:10 | [misp42splunk](https://2018.hack.lu/misp-summit/#misp42splunk) ([Rémi Ségui]()) |
 | 16:20 | TrendMicro - How to integrate MISP with local APT detection systems - Olivier Bertrand |
 | 16:40 | [From Twitter to MISP: A way to catch and qualify IOCs](https://2018.hack.lu/misp-summit/#from-twitter-to-misp-a-way-to-catch-and-qualify-iocs) ([Sebastien Larinier](https://2018.hack.lu/misp-summit/#Sebastien+Larinier)),  Ambroise Terrier|
