@@ -46,8 +46,7 @@ excerpt: "Agenda - Hack.lu 2018"
 | 15:15 | [Finding the best threat intelligence provider for a specific purpose: trials and tribulations](http://2018.hack.lu/talks/#Finding+the+best+threat+intelligence+provider+for+a+specific+purpose%3A+trials+and+tribulations) ([Alicia Hickey](http://2018.hack.lu/talks/#Alicia+Hickey), [Dror-John Roecher](http://2018.hack.lu/talks/#Dror-John+Roecher)) |
 | 16:00 | [pEp - pretty Easy privacy for everyone!](http://2018.hack.lu/talks/#pEp+-+pretty+Easy+privacy+for+everyone%21) ([sva](http://2018.hack.lu/talks/#sva)) |
 | 17:00 | [how to hack a Yacht - swimming IoT](http://2018.hack.lu/talks/#how+to+hack+a+Yacht+-+swimming+IoT) ([Stephan Gerling](http://2018.hack.lu/talks/#Stephan+Gerling)) |
-| 17:45 | [APIs are critical to security people - what I learned trying to discover useful APIs](http://2018.hack.lu/talks/#APIs+are+critical+to+security+people+-+what+I+learned+trying+to+discover+useful+APIs) ([Alexander Jaeger](http://2018.hack.lu/talks/#Alexander+Jaeger)) |
-| 18:10 | [Simple analysis using pDNS](http://2018.hack.lu/talks/#Simple+analysis+using+pDNS) ([Irena Damsky](http://2018.hack.lu/talks/#Irena+Damsky)) |
+| 17:45 | [Simple analysis using pDNS](http://2018.hack.lu/talks/#Simple+analysis+using+pDNS) ([Irena Damsky](http://2018.hack.lu/talks/#Irena+Damsky)) |
 | 19:00 | [Social event](http://2018.hack.lu/talks/#Social+event) ([info](http://2018.hack.lu/talks/#info)) |
 {: class="table"}
 
@@ -79,7 +78,7 @@ excerpt: "Agenda - Hack.lu 2018"
 | Time | Hollenfels | Vianden - Wiltz |Echternach - Diekirch | Schengen |
 |:----:|:----------:|:---------------:|:--------------------:|:--------:|
 | 09:30 |[ARM IoT Firmware Emulation](http://2018.hack.lu/talks/#ARM+IoT+Firmware+Emulation) ([Saumil Udayan Shah](http://2018.hack.lu/talks/#Saumil+Udayan+Shah)) |[Introduction to Bro Network Security Monitor](http://2018.hack.lu/talks/#Introduction+to+Bro+Network+Security+Monitor) ([Eva Szilagyi](http://2018.hack.lu/talks/#Eva+Szilagyi), [David Szili](http://2018.hack.lu/talks/#David+Szili)) |[Android RE workshop](http://2018.hack.lu/talks/#Android+RE+workshop) ([Axelle Apvrille](http://2018.hack.lu/talks/#Axelle+Apvrille)) ||
-| 13:30 |[Hacking mobile data and phone calls](http://2018.hack.lu/talks/#Hacking+mobile+data+and+phone+calls) ([Priya Chalakkal](http://2018.hack.lu/talks/#Priya+Chalakkal)) |[Finding security vulnerabilities with modern fuzzing techniques](http://2018.hack.lu/talks/#Finding+security+vulnerabilities+with+modern+fuzzing+techniques) ([René Freingruber](http://2018.hack.lu/talks/#Ren%C3%A9+Freingruber)) |[Bypassing Windows Driver Signature Enforcement](http://2018.hack.lu/talks/#Bypassing+Windows+Driver+Signature+Enforcement) ([Csaba Fitzl](http://2018.hack.lu/talks/#Csaba+Fitzl)) ||
+| 13:30 |[Hacking mobile data and phone calls (limited seats ~25)](http://2018.hack.lu/talks/#Hacking+mobile+data+and+phone+calls+%28limited+seats+%7E25%29) ([Priya Chalakkal](http://2018.hack.lu/talks/#Priya+Chalakkal)) |[Finding security vulnerabilities with modern fuzzing techniques](http://2018.hack.lu/talks/#Finding+security+vulnerabilities+with+modern+fuzzing+techniques) ([René Freingruber](http://2018.hack.lu/talks/#Ren%C3%A9+Freingruber)) |[Bypassing Windows Driver Signature Enforcement](http://2018.hack.lu/talks/#Bypassing+Windows+Driver+Signature+Enforcement) ([Csaba Fitzl](http://2018.hack.lu/talks/#Csaba+Fitzl)) ||
 {: class="table"}
 
 
@@ -101,7 +100,7 @@ excerpt: "Agenda - Hack.lu 2018"
 | Time | Hollenfels | Vianden - Wiltz |Echternach - Diekirch | Schengen |
 |:----:|:----------:|:---------------:|:--------------------:|:--------:|
 | 09:30 |[Reversing and Vulnerability research of Ethereum Smart Contracts](http://2018.hack.lu/talks/#Reversing+and+Vulnerability+research+of+Ethereum+Smart+Contracts) ([Patrick Ventuzelo](http://2018.hack.lu/talks/#Patrick+Ventuzelo)) ||[Python Toolsmithing 101](http://2018.hack.lu/talks/#Python+Toolsmithing+101) ([Didier Stevens](http://2018.hack.lu/talks/#Didier+Stevens)) ||
-| 13:30 |[*Practical* Docker Security Workshop](http://2018.hack.lu/talks/#%2APractical%2A+Docker+Security+Workshop) ([Paul Amar](http://2018.hack.lu/talks/#Paul+Amar)) |[Malware Triage: Analyzing Malscripts - Return of The Exploits!](http://2018.hack.lu/talks/#Malware+Triage%3A+Analyzing+Malscripts+-+Return+of+The+Exploits%21) ([Sergei Frankoff](http://2018.hack.lu/talks/#Sergei+Frankoff), [Sean Wilson](http://2018.hack.lu/talks/#Sean+Wilson)) |[Ask Me Anything - MISP](http://2018.hack.lu/talks/#Ask+Me+Anything+-+MISP) ([iglocska](http://2018.hack.lu/talks/#iglocska)) ||
+| 13:30 |[*Practical* Docker Security Workshop](http://2018.hack.lu/talks/#%2APractical%2A+Docker+Security+Workshop) ([Paul Amar](http://2018.hack.lu/talks/#Paul+Amar)) |[Malware Triage: Analyzing Malscripts - Return of The Exploits!](http://2018.hack.lu/talks/#Malware+Triage%3A+Analyzing+Malscripts+-+Return+of+The+Exploits%21) ([Sergei Frankoff](http://2018.hack.lu/talks/#Sergei+Frankoff), [Sean Wilson](http://2018.hack.lu/talks/#Sean+Wilson)) |[Deep dive in the analysis of the dark unindexed corners of Internet](http://2018.hack.lu/talks/#Deep+dive+in+the+analysis+of+the+dark+unindexed+corners+of+Internet) ([iglocska](http://2018.hack.lu/talks/#iglocska)) ||
 {: class="table"}
 
 ## Friday 19 October 2018 (after-event)

@@ -428,17 +428,6 @@ Vladimir Kropotov is a researcher with Trend Micro FTR team. Active for over 15 
 Fyodor is a threat researcher with FTR/TrendMicro Taiwan and holds a Ph.D. from EE, National Taiwan University. Fyodor is mainly focused on regional threat investigations, Russian and Chinese underground studies as well as automation of threat hunting process. Prior to TrendMicro, Fyodor professional experience includes several years as a threat analyst and over eight years as an information security analyst responding to network, security breaches and conducting remote network security assessments and network intrusion tests for the majority of regional banking, finance, semiconductor and telecommunication organizations. Fyodor is an active member of local security community and has spoken at a number of conferences regionally and globally.
 
 
-## <a name="APIs+are+critical+to+security+people+-+what+I+learned+trying+to+discover+useful+APIs"></a>APIs are critical to security people - what I learned trying to discover useful APIs
-by Alexander Jaeger
-
-Trying to identify all the APIs to use might be a hard job, I did that and want show you the journey and my lessons learned.
-
-
-### Bio: <a name="Alexander+Jaeger"></a>Alexander Jaeger
-
-Doing incident response for a large chemical company for several years.
-
-
 ## <a name="Finding+the+best+threat+intelligence+provider+for+a+specific+purpose%3A+trials+and+tribulations"></a>Finding the best threat intelligence provider for a specific purpose: trials and tribulations
 by Alicia Hickey, Dror-John Roecher
 
@@ -556,7 +545,7 @@ Participants are expected to bring laptops running either VMware Workstration/Fu
 
 ### Bio: <a name=""></a>
 
-
+None
 
 
 ## <a name="Teenage+Mutant+Binja+Turtles"></a>Teenage Mutant Binja Turtles
@@ -640,7 +629,7 @@ Saumil Shah, is the founder and CEO of Net-Square, providing cutting edge inform
 Saumil holds an M.S. in Computer Science from Purdue University, USA and a B.E. in Computer Engineering from Gujarat University. He spends his leisure time playing Pacman, flying kites, traveling around the world and taking pictures.
 
 
-## <a name="Hacking+mobile+data+and+phone+calls"></a>Hacking mobile data and phone calls
+## <a name="Hacking+mobile+data+and+phone+calls+%28limited+seats+%7E25%29"></a>Hacking mobile data and phone calls (limited seats ~25)
 by Priya Chalakkal
 
 An introductory workshop to get an overview of security in telecommunication. We will be performing man in the middle attacks on mobile data as well as phone calls. We will cover the basics of building a fake base station (in 2G), playing with SIM cards in retrieving/programming session keys. We will also look into VoLTE (4G) security.
@@ -735,10 +724,10 @@ Major topics covered will include:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eu nibh quis tellus iaculis malesuada sit amet eu mi. (…) More seriously, Paul Amar is working as a Security Analyst for Michelin. He likes breaking things as a hobby and developing open-source tools mostly in Python. (Such as DET, a toolkit to exfiltrate data over multiple channels). He also likes IPA beers and cookies.
 
 
-## <a name="Ask+Me+Anything+-+MISP"></a>Ask Me Anything - MISP
+## <a name="Deep+dive+in+the+analysis+of+the+dark+unindexed+corners+of+Internet"></a>Deep dive in the analysis of the dark unindexed corners of Internet
 by 
 
-Ft.  Andras Iklody
+Ft.  Sami Mokaddem
 
 
 ### Bio: <a name=""></a>
